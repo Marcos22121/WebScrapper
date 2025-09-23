@@ -6,16 +6,10 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-largo-fino-ala-1-kg-25417/p"
   },
   {
-    "nombre": "Chocolate Con Leche Y Almendras Nestle 50 Gr.",
-    "precio": "$ 1.900",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/357718-500-auto?v=638936223170330000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-con-leche-y-almendras-nestle-50-gr-309177/p"
-  },
-  {
-    "nombre": "Chocolate Arcor Leche y ManÃ­ 95 Gr.",
-    "precio": "$ 1.990",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/323202-500-auto?v=638599553093470000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-arcor-leche-y-mani-95-gr-275192/p"
+    "nombre": "Fideos Tirabuzón Favorita 500 Gr.",
+    "precio": "$ 590",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/309609-500-auto?v=638884386399170000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-tirabuzon-favorita-500-gr-61450/p"
   },
   {
     "nombre": "Fideos Spaghetti Favorita 500 Gr.",
@@ -24,10 +18,10 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-spaghetti-favorita-500-gr-61256/p"
   },
   {
-    "nombre": "Chocolate Semi Amargo Nestle 50 Gr.",
-    "precio": "$ 1.990",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/357342-500-auto?v=638931178183000000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-semi-amargo-nestle-50-gr-309155/p"
+    "nombre": "Chocolate Con Leche Y Almendras Nestle 50 Gr.",
+    "precio": "$ 1.900",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/357718-500-auto?v=638936223170330000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-con-leche-y-almendras-nestle-50-gr-309177/p"
   },
   {
     "nombre": "Arroz Parboil Molinos Ala 1 Kg.",
@@ -36,58 +30,10 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-parboil-molinos-ala-1-kg-33019/p"
   },
   {
-    "nombre": "Chocolate Con Leche Suave y Cremoso Nestle 45 Gr.",
-    "precio": "$ 1.750",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/357340-500-auto?v=638931177827670000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-con-leche-suave-y-cremoso-nestle-45-gr-309154/p"
-  },
-  {
-    "nombre": "Doritos Dinamita Picantes Flamin Hot 82 Gr.",
-    "precio": "$ 1.890",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/347434-500-auto?v=638786792183830000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/nachos-dinamita-picantes-flamin-hot-doritos-82-gr-306655/p"
-  },
-  {
-    "nombre": "Arroz Largo Fino Molinos Ala 500 Gr.",
-    "precio": "$ 550",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/332875-500-auto?v=638925952514270000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-largo-fino-molinos-ala-500-gr-298635/p"
-  },
-  {
-    "nombre": "Polenta Prestopronta 490 Gr.",
-    "precio": "$ 995",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355848-500-auto?v=638903296391600000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/polenta-prestopronta-490-gr-84289/p"
-  },
-  {
-    "nombre": "Papas Fritas Lays Picantes Ondas Sabor a Flamin' Hot 70 Gr.",
-    "precio": "$ 2.050",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/328944-500-auto?v=638599629412900000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-picantes-ondas-sabor-a-flamin--hot-70-gr-297769/p"
-  },
-  {
-    "nombre": "Doritos Dinamita Picantes Extra Flamin Hot 82 Gr.",
-    "precio": "$ 1.890",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355871-500-auto?v=638929610571230000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/nachos-dinamita-picantes-extra-flamin-hot-82-gr-308803/p"
-  },
-  {
-    "nombre": "Polenta Molinos Ala 500 Gr.",
-    "precio": "$ 415",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/349756-500-auto?v=638816900253670000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/polenta-molinos-ala-500-gr-307092/p"
-  },
-  {
-    "nombre": "Durazno en Mitades DIA 820 Gr.",
-    "precio": "$ 1.490",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308558-500-auto?v=638925972742830000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/durazno-en-mitades-dia-820-gr-34544/p"
-  },
-  {
-    "nombre": "Fideos Tallarín Don Vicente 500 Gr.",
-    "precio": "$ 1.927,25",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/329914-500-auto?v=638599642014570000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-tallarin-don-vicente-500-gr-299848/p"
+    "nombre": "Chocolate Arcor Leche y ManÃ­ 95 Gr.",
+    "precio": "$ 1.990",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/323202-500-auto?v=638599553093470000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-arcor-leche-y-mani-95-gr-275192/p"
   },
   {
     "nombre": "Harina para Pizza Pureza con Levadura 1 Kg.",
@@ -96,10 +42,10 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-para-pizza-pureza-con-levadura-1-kg-164858/p"
   },
   {
-    "nombre": "Mostaza Original Doypack Savora 250 Gr.",
-    "precio": "$ 1.140",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308180-500-auto?v=638599340040130000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/mostaza-original-doypack-savora-250-gr-25631/p"
+    "nombre": "Fideos Tallarín Don Vicente 500 Gr.",
+    "precio": "$ 2.047,50",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/329914-500-auto?v=638599642014570000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-tallarin-don-vicente-500-gr-299848/p"
   },
   {
     "nombre": "Chocolate para Taza Bonafide 100 Gr.",
@@ -108,10 +54,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-para-taza-bonafide-100-gr-259693/p"
   },
   {
-    "nombre": "Ketchup Hellmanns Regular Doypack 250 Gr.",
-    "precio": "$ 1.800",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/344785-500-auto?v=638744391109630000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/ketchup-hellmanns-regular-doypack-250-gr-54176/p"
+    "nombre": "Alfajor Brownie 9 De Oro 45 Gr.",
+    "precio": "$ 600",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354232-500-auto?v=638881703286270000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-brownie-9-de-oro-45-gr-308239/p"
+  },
+  {
+    "nombre": "Mostaza Original Doypack Savora 250 Gr.",
+    "precio": "$ 1.140",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308180-500-auto?v=638599340040130000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mostaza-original-doypack-savora-250-gr-25631/p"
   },
   {
     "nombre": "Arroz Molinos Ala Doble Carolina 1 Kg.",
@@ -120,16 +72,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-molinos-ala-doble-carolina-1-kg-131061/p"
   },
   {
+    "nombre": "Ketchup Hellmanns Regular Doypack 250 Gr.",
+    "precio": "$ 1.800",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/344785-500-auto?v=638744391109630000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/ketchup-hellmanns-regular-doypack-250-gr-54176/p"
+  },
+  {
     "nombre": "Caldo Knorr De Verdura Deshidratado 12 Ud.",
     "precio": "$ 1.950",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/353392-500-auto?v=638871331116470000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/caldo-knorr-de-verdura-deshidratado-12-ud-54946/p"
-  },
-  {
-    "nombre": "Fideos Knorr Spaghetti 500 Gr.",
-    "precio": "$ 990",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/321948-500-auto?v=638786847455400000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-knorr-spaghetti-500-gr-272892/p"
   },
   {
     "nombre": "Pan con Cereales y Semillas Fargo 400 Gr.",
@@ -144,22 +96,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-rallado-mama-cocina-500-gr-174709/p"
   },
   {
-    "nombre": "Premezcla Torta Chip Exqui 500 Gr.",
-    "precio": "$ 3.200",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356605-500-auto?v=638912806716370000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/premezcla-torta-chip-exqui-500-gr-308597/p"
+    "nombre": "Harina 000 Cañuelas Ultra Refinada 1 Kg.",
+    "precio": "$ 650",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/322323-500-auto?v=638895628154630000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-000-canuelas-ultra-refinada-1-kg-273445/p"
   },
   {
-    "nombre": "Pan Blanco Artesano con Masa Madre 500 Gr.",
-    "precio": "$ 5.240",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354723-500-auto?v=638887748670070000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-blanco-artesano-con-masa-madre-500-gr-222898/p"
-  },
-  {
-    "nombre": "Fideos Caseritos Don Vicente 500 Gr.",
-    "precio": "$ 1.901,25",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/310527-500-auto?v=638599374180530000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-caseritos-don-vicente-500-gr-99900/p"
+    "nombre": "Fideos Knorr Spaghetti 500 Gr.",
+    "precio": "$ 990",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/321948-500-auto?v=638786847455400000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-knorr-spaghetti-500-gr-272892/p"
   },
   {
     "nombre": "Arroz Largo Fino Cañuelas 1 Kg.",
@@ -174,22 +120,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-integral-fargo-400-gr-263877/p"
   },
   {
-    "nombre": "Harina 000 Cañuelas Ultra Refinada 1 Kg.",
-    "precio": "$ 650",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/322323-500-auto?v=638895628154630000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-000-canuelas-ultra-refinada-1-kg-273445/p"
+    "nombre": "Pan Blanco Artesano con Masa Madre 500 Gr.",
+    "precio": "$ 5.240",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354723-500-auto?v=638887748670070000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-blanco-artesano-con-masa-madre-500-gr-222898/p"
   },
   {
-    "nombre": "Harina Morixe para Arepas 1 Kg.",
-    "precio": "$ 1.990",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/319776-500-auto?v=638599508603970000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-morixe-para-arepas-1-kg-265538/p"
-  },
-  {
-    "nombre": "Aceite de Oliva Vidrio Morixe 500 Ml.",
-    "precio": "$ 8.990",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355882-500-auto?v=638903296865330000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-vidrio-morixe-500-ml-308912/p"
+    "nombre": "Fideos Caseritos Don Vicente 500 Gr.",
+    "precio": "$ 2.047,50",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/310527-500-auto?v=638599374180530000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-caseritos-don-vicente-500-gr-99900/p"
   },
   {
     "nombre": "Fideos Mostachol Favorita 500 Gr.",
@@ -198,64 +138,10 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-mostachol-favorita-500-gr-161604/p"
   },
   {
-    "nombre": "Papas Fritas Lays Clásicas X 134 Gr.",
-    "precio": "$ 2.700",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/314433-500-auto?v=638599428204800000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-134-gr-180409/p"
-  },
-  {
-    "nombre": "Arroz Molinos Ala Integral 1 Kg.",
-    "precio": "$ 1.600",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/320054-500-auto?v=638786846905200000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-molinos-ala-integral-1-kg-267142/p"
-  },
-  {
-    "nombre": "Fideos Tallarín Favorita 500 Gr.",
-    "precio": "$ 590",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356127-500-auto?v=638907617979970000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-tallarin-favorita-500-gr-161603/p"
-  },
-  {
-    "nombre": "Pan de Hamburguesa Bimbo Artesano 4 Ud.",
-    "precio": "$ 2.645",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354727-500-auto?v=638887748710700000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-hamburguesa-bimbo-artesano-4-ud-229492/p"
-  },
-  {
-    "nombre": "Papas Fritas Lays Clásicas X 85 Gr.",
-    "precio": "$ 1.848,60",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/313899-500-auto?v=638599420342730000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-85-gr-172869/p"
-  },
-  {
-    "nombre": "Fideos Knorr Tallarines 500 Gr.",
-    "precio": "$ 990",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/321945-500-auto?v=638786847365600000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-knorr-tallarines-500-gr-272891/p"
-  },
-  {
-    "nombre": "Tortillas Clásicas Rapiditas 10 Ud.",
-    "precio": "$ 2.560",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354716-500-auto?v=638887748595130000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/tortillas-clasicas-rapiditas-10-ud-202954/p"
-  },
-  {
-    "nombre": "Pan Rallado Morixe 1 Kg.",
-    "precio": "$ 1.620",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/318385-500-auto?v=638823932210500000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-rallado-morixe-1-kg-258539/p"
-  },
-  {
-    "nombre": "Alfajor De Dulce de Leche Blanco 9 De Oro 45 Gr.",
-    "precio": "$ 450",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/350789-500-auto?v=638828993613630000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-de-dulce-de-leche-blanco-9-de-oro-45-gr-307590/p"
-  },
-  {
-    "nombre": "Aceite de Girasol Cocinero 1,5 Lt.",
-    "precio": "$ 4.669",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/339766-500-auto?v=638840609090200000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-de-girasol-cocinero-15-lt-25338/p"
+    "nombre": "Harina Morixe para Arepas 1 Kg.",
+    "precio": "$ 1.990",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/319776-500-auto?v=638599508603970000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-morixe-para-arepas-1-kg-265538/p"
   },
   {
     "nombre": "Lomitos de Atún al Natural Dia 170 Gr.",
@@ -264,142 +150,22 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/lomitos-de-atun-al-natural-dia-170-gr-55812/p"
   },
   {
-    "nombre": "Fideos Fetuccini Don Vicente 500 Gr.",
-    "precio": "$ 2.068,95",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/329912-500-auto?v=638823932930030000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-fetuccini-don-vicente-500-gr-299846/p"
-  },
-  {
     "nombre": "Nachos Sabor A Queso Doritos X 129 Gr.",
     "precio": "$ 3.150",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/310841-500-auto?v=638599378549570000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/nachos-sabor-a-queso-doritos-x-129-gr-107734/p"
   },
   {
-    "nombre": "Lomitos de Atún en Aceite Dia 170 Gr.",
-    "precio": "$ 1.790",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356095-500-auto?v=638907617637170000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/lomitos-de-atun-en-aceite-dia-170-gr-55813/p"
+    "nombre": "Fideos Fetuccini Don Vicente 500 Gr.",
+    "precio": "$ 3.183",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/329912-500-auto?v=638823932930030000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-fetuccini-don-vicente-500-gr-299846/p"
   },
   {
-    "nombre": "Tortillas Integrales Rapiditas 10 Ud.",
-    "precio": "$ 2.560",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354780-500-auto?v=638887749274130000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/tortillas-integrales-rapiditas-10-ud-282890/p"
-  },
-  {
-    "nombre": "Tortillas Light Rapiditas 10 Ud.",
-    "precio": "$ 2.560",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354759-500-auto?v=638887749050600000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/tortillas-light-rapiditas-10-ud-261335/p"
-  },
-  {
-    "nombre": "Harina Leudante Fortificada Blancaflor 1 Kg.",
-    "precio": "$ 1.685",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330413-500-auto?v=638937182467470000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-leudante-fortificada-blancaflor-1-kg-300778/p"
-  },
-  {
-    "nombre": "Arroz Ita Caabo Largo Fino Molinos 1 Kg",
-    "precio": "$ 1.490",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/332624-500-auto?v=638937195148000000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-ita-caabo-largo-fino-molinos-1-kg-275460/p"
-  },
-  {
-    "nombre": "Papas Fritas Sabor A Queso Y Cebolla Lays X 77 Gr.",
-    "precio": "$ 1.940,40",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/315539-500-auto?v=638599443440500000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/papas-fritas-sabor-a-queso-y-cebolla-lays-x-77-gr-217633/p"
-  },
-  {
-    "nombre": "Almidón De Maíz Maizena Clásica Sin Tacc 500 Gr.",
-    "precio": "$ 2.560",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/348829-500-auto?v=638794443974000000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/almidon-de-maiz-maizena-clasica-sin-tacc-500-gr-295455/p"
-  },
-  {
-    "nombre": "Arroz Parboil 00000 Molinos Ala 500 Gr.",
-    "precio": "$ 840",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/333258-500-auto?v=638620966650230000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-parboil-00000-molinos-ala-500-gr-258586/p"
-  },
-  {
-    "nombre": "Pan Rallado Mamá Cocina 1 Kg.",
-    "precio": "$ 1.794",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/343098-500-auto?v=638726177504770000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-rallado-mama-cocina-1-kg-174448/p"
-  },
-  {
-    "nombre": "Aceite Fritolim Clásico Cocinero 120 Ml.",
-    "precio": "$ 2.590",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355790-500-auto?v=638902433461170000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-fritolim-clasico-cocinero-120-ml-300380/p"
-  },
-  {
-    "nombre": "Pan Blanco Lactal 315 Gr.",
-    "precio": "$ 2.265",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354755-500-auto?v=638887749002600000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-blanco-lactal-315-gr-245474/p"
-  },
-  {
-    "nombre": "Papas Fritas Sabor A Jamón Serrano Lays X 77 Gr.",
-    "precio": "$ 1.940,40",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/315365-500-auto?v=638599440962500000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/papas-fritas-sabor-a-jamon-serrano-lays-x-77-gr-213435/p"
-  },
-  {
-    "nombre": "Pan Rallado Pureza Integral 350 Gr.",
-    "precio": "$ 1.023,75",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/320743-500-auto?v=638599521974270000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-rallado-pureza-integral-350-gr-269646/p"
-  },
-  {
-    "nombre": "Papas Fritas Panceta Lays 77 Gr.",
-    "precio": "$ 1.920",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352889-500-auto?v=638865280526830000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/papas-fritas-panceta-lays-77-gr-307981/p"
-  },
-  {
-    "nombre": "Fideos Fettuccini Don Vicente Espinaca 500 Gr.",
-    "precio": "$ 2.333,50",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/318802-500-auto?v=638599494801000000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-fettuccini-don-vicente-espinaca-500-gr-260416/p"
-  },
-  {
-    "nombre": "Papas Fritas Barbacoa Lays 77 Gr.",
-    "precio": "$ 1.920",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352887-500-auto?v=638865280496370000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/papas-fritas-barbacoa-lays-77-gr-307980/p"
-  },
-  {
-    "nombre": "Rebozador para Horno Mamá Cocina 500 Gr.",
-    "precio": "$ 1.098,50",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/343099-500-auto?v=638726177520070000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/rebozador-para-horno-mama-cocina-500-gr-174476/p"
-  },
-  {
-    "nombre": "Caldo Knorr De Gallina Deshidratado 12 Ud.",
-    "precio": "$ 1.950",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/348537-500-auto?v=638794439952600000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/caldo-knorr-de-gallina-deshidratado-12-ud-37505/p"
-  },
-  {
-    "nombre": "Papas Fritas Lays Clásicas X 230 Gr.",
-    "precio": "$ 4.547,40",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/317566-500-auto?v=638828520389500000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-230-gr-249181/p"
-  },
-  {
-    "nombre": "Bizcochuelo Mamá Cocina Vainilla 540 Gr.",
-    "precio": "$ 1.880",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/323662-500-auto?v=638599558837200000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/bizcochuelo-mama-cocina-vainilla-540-gr-276149/p"
-  },
-  {
-    "nombre": "Panko Mama Cocina 400 Gr.",
-    "precio": "$ 1.797,25",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/342225-500-auto?v=638708915400900000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/panko-mama-cocina-400-gr-296479/p"
+    "nombre": "Madalenas Vainilla 9 de Oro con Dulce de Leche 230 Gr.",
+    "precio": "$ 1.500",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/327031-500-auto?v=638786850217530000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/madalenas-vainilla-9-de-oro-con-dulce-de-leche-230-gr-292529/p"
   },
   {
     "nombre": "Madalenas Dulce Mamá Vainilla con Dulce de Leche 200 Gr.",
@@ -414,28 +180,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-monovarietal-corto-molinos-ala-1-kg-264264/p"
   },
   {
-    "nombre": "Caldo Knorr De Verduras Cero Sodio 12 Cubos 96 Gr.",
-    "precio": "$ 2.290",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/353356-500-auto?v=638871330697700000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/caldo-knorr-de-verduras-cero-sodio-12-cubos-96-gr-37507/p"
-  },
-  {
     "nombre": "Madalenas Dulce Mamá Vainilla 200 Gr.",
     "precio": "$ 1.590",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/321342-500-auto?v=638599529617470000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/madalenas-dulce-mama-vainilla-200-gr-271358/p"
   },
   {
-    "nombre": "Pan Rallado Sin Tacc Mama Cocina 350 Gr.",
-    "precio": "$ 2.600",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352712-500-auto?v=638863555660630000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-rallado-sin-tacc-mama-cocina-350-gr-2572/p"
-  },
-  {
-    "nombre": "Chocolate Con Maní Shot 170 Gr.",
-    "precio": "$ 5.490",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/331999-500-auto?v=638612988888070000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-con-mani-shot-170-gr-121964/p"
+    "nombre": "Caldo Knorr De Verduras Cero Sodio 12 Cubos 96 Gr.",
+    "precio": "$ 2.290",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/353356-500-auto?v=638871330697700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/caldo-knorr-de-verduras-cero-sodio-12-cubos-96-gr-37507/p"
   },
   {
     "nombre": "Bizcochuelo Vainilla Morixe 540 Gr.",
@@ -444,16 +198,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/bizcochuelo-vainilla-morixe-540-gr-2856/p"
   },
   {
-    "nombre": "Pan Rallado Mamá Cocina Ajo y Perejil 500 Gr.",
-    "precio": "$ 1.183",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/325068-500-auto?v=638862997410700000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-rallado-mama-cocina-ajo-y-perejil-500-gr-282929/p"
-  },
-  {
     "nombre": "Aceite Blend Girasol Y Oliva Cocinero 500 Ml.",
     "precio": "$ 3.990",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/338143-500-auto?v=638671879067570000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-blend-girasol-y-oliva-cocinero-500-ml-25337/p"
+  },
+  {
+    "nombre": "Mini Budin Relleno con Dulce de Leche 215 Gr.",
+    "precio": "$ 1.390",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354981-500-auto?v=638889473240770000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mini-budin-relleno-con-dulce-de-leche-215-gr-245368/p"
   },
   {
     "nombre": "Caldo Knorr De Verduras Cero Sodio 6 Cubos 48 Gr.",
@@ -462,22 +216,34 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/caldo-knorr-de-verduras-cero-sodio-6-cubos-48-gr-54915/p"
   },
   {
+    "nombre": "Pan Rallado Sin Tacc Mama Cocina 350 Gr.",
+    "precio": "$ 4.000",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352712-500-auto?v=638863555660630000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-rallado-sin-tacc-mama-cocina-350-gr-2572/p"
+  },
+  {
+    "nombre": "Chocolate Milka Relleno Dulce de Leche 29 Gr.",
+    "precio": "$ 1.870",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356154-500-auto?v=638908481000970000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-relleno-dulce-de-leche-29-gr-134986/p"
+  },
+  {
     "nombre": "Nachos Sweet Chilli Doritos 74 Gr.",
     "precio": "$ 2.250",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/345969-500-auto?v=638786783445800000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/nachos-sweet-chilli-doritos-74-gr-5505/p"
   },
   {
-    "nombre": "Caldo de Carne Con Vegetales Knorr 12 Ud.",
-    "precio": "$ 1.950",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/332344-500-auto?v=638619038660730000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/caldo-de-carne-con-vegetales-knorr-12-ud-15595/p"
-  },
-  {
     "nombre": "Tablitas Semillas Dia 100 Gr.",
     "precio": "$ 1.025",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340526-500-auto?v=638701121142230000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/tablitas-semillas-dia-100-gr-289462/p"
+  },
+  {
+    "nombre": "Caldo de Carne Con Vegetales Knorr 12 Ud.",
+    "precio": "$ 1.950",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/332344-500-auto?v=638619038660730000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/caldo-de-carne-con-vegetales-knorr-12-ud-15595/p"
   },
   {
     "nombre": "Pan Salvado Lactal 560 Gr.",
@@ -504,12 +270,6 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/nestle-classic-duo-chocolate-x-80-gr-289457/p"
   },
   {
-    "nombre": "Nestlé Classic Chocolate Semi Amargo X 80 Gr.",
-    "precio": "$ 2.990",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/353632-500-auto?v=638871334047270000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/nestle-classic-chocolate-semi-amargo-x-80-gr-289456/p"
-  },
-  {
     "nombre": "Crunch Chocolate Crujiente X 80 Gr.",
     "precio": "$ 2.990",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/353975-500-auto?v=638873055990000000&width=500&height=auto&aspect=true",
@@ -534,12 +294,6 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/mix-de-especias-sabor-puerro-knorr-24-gr-307325/p"
   },
   {
-    "nombre": "Chocolate Milka Aireado Combinado 110 Gr.",
-    "precio": "$ 4.990",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/323046-500-auto?v=638599551190970000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-aireado-combinado-110-gr-274865/p"
-  },
-  {
     "nombre": "Mix De Especias Sabor Mediterráneo Knorr 24 Gr.",
     "precio": "$ 1.180",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/350383-500-auto?v=638822086625830000&width=500&height=auto&aspect=true",
@@ -552,10 +306,22 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/tostaditas-clasicas-dia-140-gr-55527/p"
   },
   {
+    "nombre": "Nestlé Choco Trio Maní X 90 Gr.",
+    "precio": "$ 3.150",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/353660-500-auto?v=638871334373330000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/nestle-choco-trio-mani-x-90-gr-295790/p"
+  },
+  {
     "nombre": "Alpino Chocolate Con Leche Nestlé X85 Gr.",
     "precio": "$ 3.990",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/353611-500-auto?v=638871333803700000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/alpino-chocolate-con-leche-nestle-x85-gr-289413/p"
+  },
+  {
+    "nombre": "Chocolate Milka Con Leche 55 Gr.",
+    "precio": "$ 2.675",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/317631-500-auto?v=638827519559670000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-con-leche-55-gr-249906/p"
   },
   {
     "nombre": "Vegetales Deshidratados Knorr Espinaca 50 Gr.",
@@ -576,12 +342,6 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/tablitas-clasicas-dia-100-gr-289461/p"
   },
   {
-    "nombre": "Pasta Mbox Quesos Menu Box 64 Gr.",
-    "precio": "$ 2.320",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/332066-500-auto?v=638616524215370000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pasta-mbox-quesos-menu-box-64-gr-299412/p"
-  },
-  {
     "nombre": "Mix De Sabores Carne Romero Ajo Knorr 24 Gr.",
     "precio": "$ 1.180",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/349485-500-auto?v=638809986621200000&width=500&height=auto&aspect=true",
@@ -592,6 +352,12 @@
     "precio": "$ 950",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340896-500-auto?v=638706306031630000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/grisines-dia-100-gr-277705/p"
+  },
+  {
+    "nombre": "Pasta Mbox Quesos Menu Box 64 Gr.",
+    "precio": "$ 2.320",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/332066-500-auto?v=638616524215370000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pasta-mbox-quesos-menu-box-64-gr-299412/p"
   },
   {
     "nombre": "Cebolla Deshidratada Knorr 100 Gr.",
@@ -606,16 +372,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/mix-de-especias-sabor-norteno-knorr-24-gr-307326/p"
   },
   {
-    "nombre": "Pasta Mbox Brocoli Menu Box 64 Gr.",
-    "precio": "$ 2.320",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/332068-500-auto?v=638616524237230000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pasta-mbox-brocoli-menu-box-64-gr-300185/p"
-  },
-  {
     "nombre": "Talitas Pipas Crack 100 Gr.",
     "precio": "$ 1.100",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/344434-500-auto?v=638786813286800000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/talitas-pipas-crack-100-gr-35120/p"
+  },
+  {
+    "nombre": "Pasta Mbox Brocoli Menu Box 64 Gr.",
+    "precio": "$ 2.320",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/332068-500-auto?v=638616524237230000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pasta-mbox-brocoli-menu-box-64-gr-300185/p"
   },
   {
     "nombre": "Pasta Mbox Fileto Menu Box 64 Gr.",
@@ -630,16 +396,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/bizcochuelo-exquisita-vainilla-con-chips-en-1-minuto-60-gr-269445/p"
   },
   {
-    "nombre": "Dips De Arroz Molinos Ala 100 Gr.",
-    "precio": "$ 1.275",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/332743-500-auto?v=638619042832530000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/dips-de-arroz-molinos-ala-100-gr-292803/p"
-  },
-  {
     "nombre": "Tostadas Sin Sal Con Vitaminas Molinos Ala 150 Gr.",
     "precio": "$ 1.730",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/332451-500-auto?v=638619039731270000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/tostadas-sin-sal-con-vitaminas-molinos-ala-150-gr-88197/p"
+  },
+  {
+    "nombre": "Dips De Arroz Molinos Ala 100 Gr.",
+    "precio": "$ 1.275",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/332743-500-auto?v=638619042832530000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/dips-de-arroz-molinos-ala-100-gr-292803/p"
   },
   {
     "nombre": "Vegetales Deshidratados Knorr Pimiento-Morrón 75 Gr.",
@@ -654,10 +420,10 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/mix-de-especias-sabor-verdura-knorr-24-gr-307330/p"
   },
   {
-    "nombre": "Pan Para Hamburguesa Con Sésamo Bimbo 4 Ud.",
-    "precio": "$ 2.949",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/357329-500-auto?v=638930280299600000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-para-hamburguesa-con-sesamo-bimbo-4-ud-197976/p"
+    "nombre": "Puré De Tomate Arcor 520 Gr.",
+    "precio": "$ 950",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/309461-500-auto?v=638599357573500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pure-de-tomate-arcor-520-gr-56121/p"
   },
   {
     "nombre": "Arroz Primavera Instantaneo Mbox 85 Gr.",
@@ -672,16 +438,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/premezcla-torta-frita-luchetti-500-gr-299141/p"
   },
   {
-    "nombre": "Pep Rueditas Picantes Flamin Hot 71 Gr.",
-    "precio": "$ 1.260",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355869-500-auto?v=638903296690170000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pep-rueditas-picantes-flamin-hot-71-gr-308801/p"
+    "nombre": "Chocolate Taza Arcor 100 Gr.",
+    "precio": "$ 2.315",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/345788-500-auto?v=638786871164800000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-taza-arcor-100-gr-306262/p"
   },
   {
-    "nombre": "Puré De Tomate Arcor 520 Gr.",
-    "precio": "$ 950",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/309461-500-auto?v=638599357573500000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pure-de-tomate-arcor-520-gr-56121/p"
+    "nombre": "Pan Para Hamburguesa Con Sésamo Bimbo 4 Ud.",
+    "precio": "$ 2.949",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/357329-500-auto?v=638930280299600000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-para-hamburguesa-con-sesamo-bimbo-4-ud-197976/p"
   },
   {
     "nombre": "Harina Leudante Vitamina D Pureza 1 Kg.",
@@ -691,9 +457,15 @@
   },
   {
     "nombre": "Fideos Spaghetti N7 Luchetti 500 Gr.",
-    "precio": "$ 1.375",
+    "precio": "$ 1.500",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308821-500-auto?v=638872603209600000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-spaghetti-n7-luchetti-500-gr-40877/p"
+  },
+  {
+    "nombre": "Pep Rueditas Picantes Flamin Hot 71 Gr.",
+    "precio": "$ 1.260",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355869-500-auto?v=638903296690170000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pep-rueditas-picantes-flamin-hot-71-gr-308801/p"
   },
   {
     "nombre": "Mayonesa Natura 500 Ml.",
@@ -703,7 +475,7 @@
   },
   {
     "nombre": "Fideos Mostachol N51 Luchetti 500 Gr.",
-    "precio": "$ 1.315",
+    "precio": "$ 1.500",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/348059-500-auto?v=638872604994000000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-mostachol-n51-luchetti-500-gr-299669/p"
   },
@@ -714,16 +486,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-de-girasol-canuelas-15-lt-73552/p"
   },
   {
+    "nombre": "Fideos Tirabuzon N28 Matarazzo 500 Gr.",
+    "precio": "$ 1.750",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308688-500-auto?v=638877764637700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-tirabuzon-n28-matarazzo-500-gr-38574/p"
+  },
+  {
     "nombre": "Harina 0000 con Vitaminas Favorita 1 Kg.",
     "precio": "$ 1.360",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330415-500-auto?v=638599648991730000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-0000-con-vitaminas-favorita-1-kg-300779/p"
-  },
-  {
-    "nombre": "Fideos Tirabuzon N28 Matarazzo 500 Gr.",
-    "precio": "$ 1.650",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308688-500-auto?v=638877764637700000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-tirabuzon-n28-matarazzo-500-gr-38574/p"
   },
   {
     "nombre": "Harina De Trigo 0000 Masa Madre Pureza 1 Kg.",
@@ -733,7 +505,7 @@
   },
   {
     "nombre": "Tirabuzon N 34 Luchetti 500 Gr.",
-    "precio": "$ 1.380",
+    "precio": "$ 1.500",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/312550-500-auto?v=638872605759030000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/tirabuzon-n-34-luchetti-500-gr-144397/p"
   },
@@ -750,16 +522,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/premezcla-para-pizza-y-pan-gourmet-sin-tacc-pureza-500-gr-29996/p"
   },
   {
+    "nombre": "Fideos Fettuccini Don Vicente Espinaca 500 Gr.",
+    "precio": "$ 3.590",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/318802-500-auto?v=638599494801000000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-fettuccini-don-vicente-espinaca-500-gr-260416/p"
+  },
+  {
     "nombre": "Harina 0000 Morixe 1 Kg.",
     "precio": "$ 1.295",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/318389-500-auto?v=638937184497730000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-0000-morixe-1-kg-258543/p"
-  },
-  {
-    "nombre": "Aceite de Girasol Natura 1,5 Lt.",
-    "precio": "$ 4.825",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/339807-500-auto?v=638778391546900000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-de-girasol-natura-15-lt-78856/p"
   },
   {
     "nombre": "Aceite de Girasol Cañuelas 900 Ml.",
@@ -772,6 +544,12 @@
     "precio": "$ 5.050",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/339943-500-auto?v=638786846822170000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-de-girasol-pureza-15-lt-265505/p"
+  },
+  {
+    "nombre": "Aceite de Girasol Natura 1,5 Lt.",
+    "precio": "$ 4.825",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/339807-500-auto?v=638778391546900000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-de-girasol-natura-15-lt-78856/p"
   },
   {
     "nombre": "Sal Fina en Paquete Celusal 500 Gr.",
@@ -792,10 +570,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/premezcla-para-pizza-luchetti-850-gr-75494/p"
   },
   {
-    "nombre": "Pan De Papa De Hamburguesa Bimbo Artesano 4 Ud.",
-    "precio": "$ 4.115",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/357322-500-auto?v=638930280645630000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-papa-de-hamburguesa-bimbo-artesano-4-ud-26244/p"
+    "nombre": "Harina Leudante DIA 1 Kg.",
+    "precio": "$ 790",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/345593-500-auto?v=638745184158900000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-leudante-dia-1-kg-24274/p"
+  },
+  {
+    "nombre": "Fideos Tallarin N5 Matarazzo 500 Gr.",
+    "precio": "$ 1.750",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308902-500-auto?v=638877773749630000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-tallarin-n5-matarazzo-500-gr-42907/p"
   },
   {
     "nombre": "Alfajor con Relleno De Dulce de Leche y Banana 9 De Oro 46 Gr.",
@@ -804,34 +588,22 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-con-relleno-de-dulce-de-leche-y-banana-9-de-oro-46-gr-309152/p"
   },
   {
+    "nombre": "Pan De Papa De Hamburguesa Bimbo Artesano 4 Ud.",
+    "precio": "$ 4.115",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/357322-500-auto?v=638930280645630000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-papa-de-hamburguesa-bimbo-artesano-4-ud-26244/p"
+  },
+  {
     "nombre": "Alfajor Con Relleno De Dulce De Leche y Rhum 9 De Oro 46 Gr.",
     "precio": "$ 750",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/357338-500-auto?v=638931177509130000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-con-relleno-de-dulce-de-leche-y-rhum-9-de-oro-46-gr-309153/p"
   },
   {
-    "nombre": "Harina Leudante DIA 1 Kg.",
-    "precio": "$ 790",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/345593-500-auto?v=638745184158900000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-leudante-dia-1-kg-24274/p"
-  },
-  {
-    "nombre": "Fideos Tallarin N5 Matarazzo 500 Gr.",
-    "precio": "$ 1.669",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308902-500-auto?v=638877773749630000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-tallarin-n5-matarazzo-500-gr-42907/p"
-  },
-  {
     "nombre": "Aceite Girasol Natural 0,9 Lt.",
     "precio": "$ 3.050",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356650-500-auto?v=638914530749300000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-girasol-natural-09-lt-78855/p"
-  },
-  {
-    "nombre": "Harina 0000 Pureza Ultra Refinada 1 Kg.",
-    "precio": "$ 1.202",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/313482-500-auto?v=638599414991800000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-0000-pureza-ultra-refinada-1-kg-167177/p"
   },
   {
     "nombre": "Mayonesa Clásica Hellmanns Sin Tacc Doypack 475 Gr.",
@@ -841,15 +613,27 @@
   },
   {
     "nombre": "Mostachol N 52 Matarazzo 500 Gr.",
-    "precio": "$ 1.650",
+    "precio": "$ 1.750",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/310532-500-auto?v=638877774761370000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/mostachol-n-52-matarazzo-500-gr-99941/p"
+  },
+  {
+    "nombre": "Harina 0000 Pureza Ultra Refinada 1 Kg.",
+    "precio": "$ 1.202",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/313482-500-auto?v=638599414991800000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-0000-pureza-ultra-refinada-1-kg-167177/p"
   },
   {
     "nombre": "Harina De Trigo Fotivac Morixe 000 1 Kg.",
     "precio": "$ 945",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/337792-500-auto?v=638902599608930000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-de-trigo-fotivac-morixe-000-1-kg-283565/p"
+  },
+  {
+    "nombre": "Caramelo Conft Acido Sugus 50 Gr.",
+    "precio": "$ 1.290",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355885-500-auto?v=638903296912000000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/caramelo-conft-acido-sugus-50-gr-308918/p"
   },
   {
     "nombre": "Turrón Arcor con Maní 25 Gr.",
@@ -865,9 +649,15 @@
   },
   {
     "nombre": "Fideos Spaghetti N3 Matarazzo 500 Gr.",
-    "precio": "$ 1.650",
+    "precio": "$ 1.750",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308689-500-auto?v=638933024224330000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-spaghetti-n3-matarazzo-500-gr-38576/p"
+  },
+  {
+    "nombre": "Harina Leudante Fortificada Blancaflor 1 Kg.",
+    "precio": "$ 1.800",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330413-500-auto?v=638937182467470000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-leudante-fortificada-blancaflor-1-kg-300778/p"
   },
   {
     "nombre": "Mayonesa Con Aceite De Oliva Livian 250 Gr.",
@@ -882,14 +672,8 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/filet-de-merluza-al-natural-terre---ocean-160-gr-297479/p"
   },
   {
-    "nombre": "Premez Torta Hum Cho Exqu 450 Gr.",
-    "precio": "$ 4.485",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356607-500-auto?v=638912806741200000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/premez-torta-hum-cho-exqu-450-gr-308598/p"
-  },
-  {
     "nombre": "Fideos Penne Rigate N45 Luchetti 500 Gr.",
-    "precio": "$ 1.380",
+    "precio": "$ 1.500",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308822-500-auto?v=638599348939900000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-penne-rigate-n45-luchetti-500-gr-40878/p"
   },
@@ -900,28 +684,34 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-spaghetti-bonativa-500-gr-4247/p"
   },
   {
-    "nombre": "Mayonesa Hellmanns Liviana Doypack 475 Gr.",
-    "precio": "$ 2.502",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/348579-500-auto?v=638794440580770000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-hellmanns-liviana-doypack-475-gr-59852/p"
-  },
-  {
     "nombre": "Palmitos En Trozos Dia 400 Gr.",
     "precio": "$ 1.750",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/350284-500-auto?v=638822085507230000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/palmitos-en-trozos-dia-400-gr-119000/p"
   },
   {
-    "nombre": "Alfajor Brownie 9 De Oro 45 Gr.",
-    "precio": "$ 950",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354232-500-auto?v=638881703286270000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-brownie-9-de-oro-45-gr-308239/p"
+    "nombre": "Tubitos Extreme Frut Mogul 15 Gr.",
+    "precio": "$ 450",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355884-500-auto?v=638903296896370000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/tubitos-extreme-frut-mogul-15-gr-308914/p"
   },
   {
     "nombre": "Fideos Tallarin N5 Luchetti 500 Gr.",
-    "precio": "$ 1.380",
+    "precio": "$ 1.500",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/329827-500-auto?v=638599640843930000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-tallarin-n5-luchetti-500-gr-299670/p"
+  },
+  {
+    "nombre": "Mayonesa Hellmanns Liviana Doypack 475 Gr.",
+    "precio": "$ 2.502",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/348579-500-auto?v=638794440580770000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-hellmanns-liviana-doypack-475-gr-59852/p"
+  },
+  {
+    "nombre": "Premez Torta Hum Cho Exqu 450 Gr.",
+    "precio": "$ 4.485",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356607-500-auto?v=638912806741200000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/premez-torta-hum-cho-exqu-450-gr-308598/p"
   },
   {
     "nombre": "Ketchup Natura 250 Gr.",
@@ -942,16 +732,10 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/papa-en-cubo-inalpa-300-gr-297967/p"
   },
   {
-    "nombre": "Oblea Kitkat Triple Chocolate X 41.5 Gr.",
-    "precio": "$ 1.320",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/353862-500-auto?v=638871336862000000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/oblea-kitkat-triple-chocolate-x-415-gr-307577/p"
-  },
-  {
-    "nombre": "Tubitos Extreme Tutti Frutti Mogul 15 Gr.",
-    "precio": "$ 570",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355883-500-auto?v=638903296881630000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/tubitos-extreme-tutti-frutti-mogul-15-gr-308913/p"
+    "nombre": "Aceite de Girasol Cocinero 900 Ml.",
+    "precio": "$ 3.110",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/309102-500-auto?v=638778393633370000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-de-girasol-cocinero-900-ml-48605/p"
   },
   {
     "nombre": "Salsa Knorr Pizza 340 Gr.",
@@ -960,10 +744,64 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-knorr-pizza-340-gr-260452/p"
   },
   {
-    "nombre": "Aceite de Girasol Cocinero 900 Ml.",
-    "precio": "$ 3.110",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/309102-500-auto?v=638778393633370000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-de-girasol-cocinero-900-ml-48605/p"
+    "nombre": "Chocolate Vizzio con Leche y Maní 165 Gr.",
+    "precio": "$ 3.300",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/323223-500-auto?v=638599553429930000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-vizzio-con-leche-y-mani-165-gr-275234/p"
+  },
+  {
+    "nombre": "Oblea Kitkat Triple Chocolate X 41.5 Gr.",
+    "precio": "$ 1.320",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/353862-500-auto?v=638871336862000000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/oblea-kitkat-triple-chocolate-x-415-gr-307577/p"
+  },
+  {
+    "nombre": "Alfajor Guaymallen Dulce de Leche con baño de repostería 38 Gr.",
+    "precio": "$ 400",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/320148-500-auto?v=638786847149700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-guaymallen-dulce-de-leche-con-bano-de-reposteria-38-gr-267295/p"
+  },
+  {
+    "nombre": "Arroz Largo Carmabe 1 Kg.",
+    "precio": "$ 1.225",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355032-500-auto?v=638890337082830000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-largo-carmabe-1-kg-307585/p"
+  },
+  {
+    "nombre": "Harina Integral Pureza 1 Kg.",
+    "precio": "$ 1.812",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341612-500-auto?v=638708907859300000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-integral-pureza-1-kg-259281/p"
+  },
+  {
+    "nombre": "Tubitos Extreme Tutti Frutti Mogul 15 Gr.",
+    "precio": "$ 570",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355883-500-auto?v=638903296881630000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/tubitos-extreme-tutti-frutti-mogul-15-gr-308913/p"
+  },
+  {
+    "nombre": "Arroz Parboil Gallo 1 Kg.",
+    "precio": "$ 2.570",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/328270-500-auto?v=638875154986570000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-parboil-gallo-1-kg-295459/p"
+  },
+  {
+    "nombre": "Chupetin Varios Sabores Fun Pop 15 Gr.",
+    "precio": "$ 2.190",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355849-500-auto?v=638903296406370000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chupetin-varios-sabores-fun-pop-15-gr-119632/p"
+  },
+  {
+    "nombre": "Chocolate Cadbury Relleno Yoghurt Frutilla 29 Gr.",
+    "precio": "$ 2.260",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307819-500-auto?v=638599334983830000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-cadbury-relleno-yoghurt-frutilla-29-gr-21637/p"
+  },
+  {
+    "nombre": "Choclo Cremoso Amarillo Dia 340 Gr.",
+    "precio": "$ 690",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/350407-500-auto?v=638822944504870000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/choclo-cremoso-amarillo-dia-340-gr-231423/p"
   },
   {
     "nombre": "Chocolate Con Almendras Nestle 25 Gr.",
@@ -972,10 +810,22 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-con-almendras-nestle-25-gr-308877/p"
   },
   {
-    "nombre": "Arroz Largo Carmabe 1 Kg.",
-    "precio": "$ 1.225",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355032-500-auto?v=638890337082830000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-largo-carmabe-1-kg-307585/p"
+    "nombre": "Alfajor Guaymallen Dulce de Leche con baño de repostería Blanco 38 Gr.",
+    "precio": "$ 400",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/320147-500-auto?v=638786847029730000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-guaymallen-dulce-de-leche-con-bano-de-reposteria-blanco-38-gr-267294/p"
+  },
+  {
+    "nombre": "Hummus Instantaneo Natural Pop 105 Gr.",
+    "precio": "$ 750",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/328938-500-auto?v=638599629333970000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/hummus-instantaneo-natural-pop-105-gr-297765/p"
+  },
+  {
+    "nombre": "Salsa Knorr Pomarola Tradicional 340 Gr.",
+    "precio": "$ 1.435",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/345389-500-auto?v=638744396987970000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-knorr-pomarola-tradicional-340-gr-298163/p"
   },
   {
     "nombre": "Choolate Semi Amargo Nestle 25 Gr.",
@@ -990,70 +840,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/caramelos-mentalyptus-halls-25-gr-308911/p"
   },
   {
-    "nombre": "Chocolate Cadbury Relleno Yoghurt Frutilla 29 Gr.",
-    "precio": "$ 2.260",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307819-500-auto?v=638599334983830000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-cadbury-relleno-yoghurt-frutilla-29-gr-21637/p"
-  },
-  {
-    "nombre": "Harina Integral Pureza 1 Kg.",
-    "precio": "$ 1.812",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341612-500-auto?v=638708907859300000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-integral-pureza-1-kg-259281/p"
-  },
-  {
-    "nombre": "Choclo Cremoso Amarillo Dia 340 Gr.",
-    "precio": "$ 690",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/350407-500-auto?v=638822944504870000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/choclo-cremoso-amarillo-dia-340-gr-231423/p"
-  },
-  {
-    "nombre": "Arroz Parboil Gallo 1 Kg.",
-    "precio": "$ 2.570",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/328270-500-auto?v=638875154986570000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-parboil-gallo-1-kg-295459/p"
-  },
-  {
-    "nombre": "Hummus Instantaneo Natural Pop 105 Gr.",
-    "precio": "$ 750",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/328938-500-auto?v=638599629333970000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/hummus-instantaneo-natural-pop-105-gr-297765/p"
-  },
-  {
-    "nombre": "Jugo de Limón Minerva 500 ml.",
-    "precio": "$ 1.617",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/349704-500-auto?v=638816899573130000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/jugo-de-limon-minerva-500-ml-30582/p"
-  },
-  {
-    "nombre": "Salsa Knorr Pomarola Tradicional 340 Gr.",
-    "precio": "$ 1.420",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/345389-500-auto?v=638744396987970000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-knorr-pomarola-tradicional-340-gr-298163/p"
-  },
-  {
-    "nombre": "Alfajor Tita 36 Gr.",
-    "precio": "$ 910",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/331079-500-auto?v=638828368729570000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-tita-36-gr-303490/p"
-  },
-  {
-    "nombre": "Harina Morixe para Pizza 1 Kg.",
-    "precio": "$ 1.579",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/326070-500-auto?v=638599589765970000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-morixe-para-pizza-1-kg-285486/p"
-  },
-  {
     "nombre": "Arvejas Secas La Campagnola 300 Gr.",
     "precio": "$ 790",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/348407-500-auto?v=638793570127930000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/arvejas-secas-la-campagnola-300-gr-46164/p"
   },
   {
-    "nombre": "Ketchup Natura 500 Gr.",
-    "precio": "$ 2.535",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355003-500-auto?v=638889473581900000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/ketchup-natura-500-gr-308237/p"
+    "nombre": "Alfajor Tita 36 Gr.",
+    "precio": "$ 910",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/331079-500-auto?v=638828368729570000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-tita-36-gr-303490/p"
   },
   {
     "nombre": "Harina Leudante Morixe 1 Kg.",
@@ -1063,15 +859,21 @@
   },
   {
     "nombre": "Salsa Knorr Filetto 340 Gr.",
-    "precio": "$ 1.420",
+    "precio": "$ 1.436",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/345034-500-auto?v=638744393513700000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-knorr-filetto-340-gr-260453/p"
   },
   {
-    "nombre": "Mayonesa Clásica Hellmanns Sin Tacc Doypack 237 Gr.",
-    "precio": "$ 1.425",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/345109-500-auto?v=638744394224000000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-clasica-hellmanns-sin-tacc-doypack-237-gr-283567/p"
+    "nombre": "Harina Morixe para Pizza 1 Kg.",
+    "precio": "$ 1.579",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/326070-500-auto?v=638599589765970000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-morixe-para-pizza-1-kg-285486/p"
+  },
+  {
+    "nombre": "Pan Rallado Morixe 500 Gr.",
+    "precio": "$ 1.350",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/318386-500-auto?v=638823946494600000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-rallado-morixe-500-gr-258540/p"
   },
   {
     "nombre": "Aceituna Verde Descarozada Castell 80 Gr.",
@@ -1080,10 +882,64 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/aceituna-verde-descarozada-castell-80-gr-295513/p"
   },
   {
+    "nombre": "Mayonesa Clásica Hellmanns Sin Tacc Doypack 237 Gr.",
+    "precio": "$ 1.425",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/345109-500-auto?v=638744394224000000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-clasica-hellmanns-sin-tacc-doypack-237-gr-283567/p"
+  },
+  {
     "nombre": "Fideos Lucchetti Dedalitos 500 Gr.",
-    "precio": "$ 1.500",
+    "precio": "$ 1.516",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/326274-500-auto?v=638599592802900000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-lucchetti-dedalitos-500-gr-287522/p"
+  },
+  {
+    "nombre": "Ketchup Natura 500 Gr.",
+    "precio": "$ 2.535",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355003-500-auto?v=638889473581900000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/ketchup-natura-500-gr-308237/p"
+  },
+  {
+    "nombre": "Alfajor Turimania Turimar 28 Gr.",
+    "precio": "$ 300",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/345779-500-auto?v=638786870988170000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-turimania-turimar-28-gr-306234/p"
+  },
+  {
+    "nombre": "Alfajor Simple Turimar Chocolate 38 Gr.",
+    "precio": "$ 350",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/319639-500-auto?v=638599506675400000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-simple-turimar-chocolate-38-gr-264665/p"
+  },
+  {
+    "nombre": "Caramelos Tutti Frutti Flynn Paff 8 Gr.",
+    "precio": "$ 200",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330357-500-auto?v=638599648221300000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/caramelos-tutti-frutti-flynn-paff-8-gr-300674/p"
+  },
+  {
+    "nombre": "Chocolate Con Maní Shot 35 Gr.",
+    "precio": "$ 2.240",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/331995-500-auto?v=638894013691030000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-con-mani-shot-35-gr-110388/p"
+  },
+  {
+    "nombre": "Jugo de Limón Minerva 1 Lt.",
+    "precio": "$ 4.000",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/350620-500-auto?v=638827340339700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/jugo-de-limon-minerva-1-lt-307362/p"
+  },
+  {
+    "nombre": "Alfajor Turimar Blanco 38 Gr.",
+    "precio": "$ 350",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/325668-500-auto?v=638599584259570000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-turimar-blanco-38-gr-283751/p"
+  },
+  {
+    "nombre": "Bombon Chocolate Hamlet 13 Gr.",
+    "precio": "$ 250",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330601-500-auto?v=638599651447400000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/bombon-chocolate-hamlet-13-gr-301186/p"
   },
   {
     "nombre": "Polvo Para Postre De Vainilla Exquisita 50 Gr.",
@@ -1098,46 +954,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/mostaza-natura-500-gr-308238/p"
   },
   {
-    "nombre": "Alfajor Simple Turimar Chocolate 38 Gr.",
-    "precio": "$ 350",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/319639-500-auto?v=638599506675400000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-simple-turimar-chocolate-38-gr-264665/p"
+    "nombre": "Harina 000 con Vitaminas Favorita 1 Kg.",
+    "precio": "$ 970",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330416-500-auto?v=638599649007500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-000-con-vitaminas-favorita-1-kg-300780/p"
   },
   {
-    "nombre": "Chocolate Con Maní Shot 35 Gr.",
-    "precio": "$ 2.240",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/331995-500-auto?v=638894013691030000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-con-mani-shot-35-gr-110388/p"
-  },
-  {
-    "nombre": "Jugo de Limón Minerva 1 Lt.",
-    "precio": "$ 2.800",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/350620-500-auto?v=638827340339700000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/jugo-de-limon-minerva-1-lt-307362/p"
-  },
-  {
-    "nombre": "Rina Matarazzo Fusil Rina 500 Gr.",
-    "precio": "$ 2.100",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354603-500-auto?v=638884499731870000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/rina-matarazzo-fusil-rina-500-gr-307726/p"
-  },
-  {
-    "nombre": "Caramelos Tutti Frutti Flynn Paff 8 Gr.",
-    "precio": "$ 200",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330357-500-auto?v=638599648221300000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/caramelos-tutti-frutti-flynn-paff-8-gr-300674/p"
-  },
-  {
-    "nombre": "Alfajor Turimar Blanco 38 Gr.",
-    "precio": "$ 350",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/325668-500-auto?v=638599584259570000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-turimar-blanco-38-gr-283751/p"
-  },
-  {
-    "nombre": "Pepinos Castell 140 Gr.",
-    "precio": "$ 5.665",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355012-500-auto?v=638889473695400000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pepinos-castell-140-gr-308340/p"
+    "nombre": "Oblea Nugaton Chocolate Blanco 27 Gr.",
+    "precio": "$ 660",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/317340-500-auto?v=638599472622700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/oblea-nugaton-chocolate-blanco-27-gr-245105/p"
   },
   {
     "nombre": "Arroz Largo Fino Luchetti 1 Kg.",
@@ -1146,16 +972,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-largo-fino-luchetti-1-kg-299671/p"
   },
   {
-    "nombre": "Harina 000 con Vitaminas Favorita 1 Kg.",
-    "precio": "$ 970",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330416-500-auto?v=638599649007500000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-000-con-vitaminas-favorita-1-kg-300780/p"
+    "nombre": "Bizcochuelo Chocman de Bonafide con Baño Semi Amargo 35 Gr.",
+    "precio": "$ 600",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330767-500-auto?v=638599653625030000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/bizcochuelo-chocman-de-bonafide-con-bano-semi-amargo-35-gr-302648/p"
   },
   {
-    "nombre": "Mayonesa Natura 250 Ml.",
-    "precio": "$ 1.235",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341161-500-auto?v=638708902444870000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-natura-250-ml-5539/p"
+    "nombre": "Polvo Para Postre Sabor Chocolate Exquisita 65 Gr.",
+    "precio": "$ 1.360",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356712-500-auto?v=638915399716200000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/polvo-para-postre-sabor-chocolate-exquisita-65-gr-102569/p"
   },
   {
     "nombre": "Pan Salvado Lactal 330 Gr.",
@@ -1164,16 +990,22 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-salvado-lactal-330-gr-210700/p"
   },
   {
+    "nombre": "Mayonesa Natura 250 Ml.",
+    "precio": "$ 1.235",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341161-500-auto?v=638708902444870000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-natura-250-ml-5539/p"
+  },
+  {
+    "nombre": "Rina Matarazzo Fusil Rina 500 Gr.",
+    "precio": "$ 2.100",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354603-500-auto?v=638884499731870000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/rina-matarazzo-fusil-rina-500-gr-307726/p"
+  },
+  {
     "nombre": "Tarta De Calabaza El Noble 240 Gr.",
     "precio": "$ 4.490",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/344457-500-auto?v=638786870820500000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/tarta-de-calabaza-el-noble-240-gr-305923/p"
-  },
-  {
-    "nombre": "Fideos Letritas Lucchetti 500 Gr.",
-    "precio": "$ 1.500",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/309703-500-auto?v=638599361192430000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-letritas-lucchetti-500-gr-66085/p"
   },
   {
     "nombre": "Arroz Parboil Bolsa Luchetti 500 Gr.",
@@ -1188,22 +1020,52 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-parboil-seleccion-gallo-500-gr-300835/p"
   },
   {
+    "nombre": "Fideos Tirabuzón 3 vegetales N34 Luchetti 500 Gr.",
+    "precio": "$ 2.059",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355089-500-auto?v=638893885853900000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-tirabuzon-3-vegetales-n34-luchetti-500-gr-249265/p"
+  },
+  {
+    "nombre": "Alfajor Smack Chocolate con Dulce de Leche 60 Gr.",
+    "precio": "$ 400",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/326375-500-auto?v=638786849617200000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-smack-chocolate-con-dulce-de-leche-60-gr-288463/p"
+  },
+  {
+    "nombre": "Alfajor Smack Relleno Mousse de Chocolate 50 Gr.",
+    "precio": "$ 400",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/326370-500-auto?v=638786849409600000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-smack-relleno-mousse-de-chocolate-50-gr-288448/p"
+  },
+  {
+    "nombre": "Fideos Letritas Lucchetti 500 Gr.",
+    "precio": "$ 1.500",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/309703-500-auto?v=638599361192430000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-letritas-lucchetti-500-gr-66085/p"
+  },
+  {
     "nombre": "Lentejas Remojadas Dia 340 Gr.",
     "precio": "$ 790",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/350404-500-auto?v=638822944467430000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/lentejas-remojadas-dia-340-gr-228836/p"
   },
   {
-    "nombre": "Alfajor Milka Triple Mousse 55 Gr.",
-    "precio": "$ 1.880",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307826-500-auto?v=638828347835970000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-milka-triple-mousse-55-gr-21721/p"
+    "nombre": "Alfajor Triple Chocolate Fantoche 85 Gr.",
+    "precio": "$ 950",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330027-500-auto?v=638599643499000000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-triple-chocolate-fantoche-85-gr-300028/p"
   },
   {
-    "nombre": "Chocolate Con Leche Paulista 9 Gr.",
-    "precio": "$ 350",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/319643-500-auto?v=638786846153930000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-con-leche-paulista-9-gr-264668/p"
+    "nombre": "Alfajor Relleno Con Dulce De Leche Arbanit Fellow 50 Gr.",
+    "precio": "$ 1.500",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354234-500-auto?v=638881703309200000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-relleno-con-dulce-de-leche-arbanit-fellow-50-gr-308240/p"
+  },
+  {
+    "nombre": "Bizcochuelo Chocman Black Bonafide 35 Gr.",
+    "precio": "$ 600",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330789-500-auto?v=638599653939170000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/bizcochuelo-chocman-black-bonafide-35-gr-303105/p"
   },
   {
     "nombre": "Oblea Kitkat 4 Fingers X 41.5 Gr.",
@@ -1212,16 +1074,46 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/oblea-kitkat-4-fingers-x-415-gr-148828/p"
   },
   {
+    "nombre": "Chocolate Con Leche Paulista 9 Gr.",
+    "precio": "$ 350",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/319643-500-auto?v=638786846153930000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-con-leche-paulista-9-gr-264668/p"
+  },
+  {
+    "nombre": "Alfajor Milka Triple Mousse 55 Gr.",
+    "precio": "$ 1.880",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307826-500-auto?v=638828347835970000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-milka-triple-mousse-55-gr-21721/p"
+  },
+  {
+    "nombre": "Pepinos Castell 140 Gr.",
+    "precio": "$ 5.665",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355012-500-auto?v=638889473695400000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pepinos-castell-140-gr-308340/p"
+  },
+  {
+    "nombre": "Alfajor Triple Merengue Fantoche 85 Gr.",
+    "precio": "$ 950",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330025-500-auto?v=638599643473430000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-triple-merengue-fantoche-85-gr-300027/p"
+  },
+  {
+    "nombre": "Bizcochuelo Vainilla Fortificado Exquisita 540 Gr.",
+    "precio": "$ 3.360",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330242-500-auto?v=638911394294700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/bizcochuelo-vainilla-fortificado-exquisita-540-gr-300382/p"
+  },
+  {
     "nombre": "Alfajor Milka Simple Mousse 42 Gr.",
     "precio": "$ 1.340",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/310937-500-auto?v=638827522096370000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-milka-simple-mousse-42-gr-110564/p"
   },
   {
-    "nombre": "Fideos Tirabuzón 3 vegetales N34 Luchetti 500 Gr.",
-    "precio": "$ 2.059",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355089-500-auto?v=638893885853900000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-tirabuzon-3-vegetales-n34-luchetti-500-gr-249265/p"
+    "nombre": "Pan de Pancho Lactal 6 Ud.",
+    "precio": "$ 2.115",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354733-500-auto?v=638887748767100000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-pancho-lactal-6-ud-239475/p"
   },
   {
     "nombre": "Suflair Chocolate Aireado Con Leche X 80 Gr.",
@@ -1230,10 +1122,10 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/suflair-chocolate-aireado-con-leche-x-80-gr-270391/p"
   },
   {
-    "nombre": "Bombo Mousse Chocolate Smack 16 Gr.",
-    "precio": "$ 400",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341898-500-auto?v=638708911599630000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/bombo-mousse-chocolate-smack-16-gr-293747/p"
+    "nombre": "Oblea Rhodesia Clásica 22 Gr.",
+    "precio": "$ 1.140",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307590-500-auto?v=638599332165900000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/oblea-rhodesia-clasica-22-gr-17932/p"
   },
   {
     "nombre": "Chicles Beldent Menta Fuerte 10 Gr.",
@@ -1248,46 +1140,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-para-hamburguesa-con-sesamo-fargo-4-ud-290880/p"
   },
   {
-    "nombre": "Pan de Pancho Lactal 6 Ud.",
-    "precio": "$ 2.115",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354733-500-auto?v=638887748767100000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-pancho-lactal-6-ud-239475/p"
+    "nombre": "Pan de Papa Con Queso Dia 320 Gr.",
+    "precio": "$ 3.015",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352946-500-auto?v=638869609905100000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-papa-con-queso-dia-320-gr-306006/p"
   },
   {
-    "nombre": "Bizcochuelo Vainilla Fortificado Exquisita 540 Gr.",
-    "precio": "$ 3.234",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330242-500-auto?v=638911394294700000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/bizcochuelo-vainilla-fortificado-exquisita-540-gr-300382/p"
-  },
-  {
-    "nombre": "Oblea Rhodesia Clásica 22 Gr.",
-    "precio": "$ 1.140",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307590-500-auto?v=638599332165900000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/oblea-rhodesia-clasica-22-gr-17932/p"
-  },
-  {
-    "nombre": "Chocolate Milka Relleno Dulce de Leche 29 Gr.",
-    "precio": "$ 1.870",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356154-500-auto?v=638908481000970000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-relleno-dulce-de-leche-29-gr-134986/p"
-  },
-  {
-    "nombre": "Alfajor Shot 44 Gr.",
-    "precio": "$ 1.340",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354242-500-auto?v=638881703436500000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-shot-44-gr-308300/p"
-  },
-  {
-    "nombre": "Chocolate Con Leche Brek 16 Gr.",
+    "nombre": "Bombo Mousse Chocolate Smack 16 Gr.",
     "precio": "$ 400",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/337289-500-auto?v=638786864614200000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-con-leche-brek-16-gr-305296/p"
-  },
-  {
-    "nombre": "Pannini 135 Gr.",
-    "precio": "$ 690",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/334691-500-auto?v=638786852649670000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pannini-135-gr-300084/p"
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341898-500-auto?v=638708911599630000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/bombo-mousse-chocolate-smack-16-gr-293747/p"
   },
   {
     "nombre": "Vinagre De Alcohol Menoyo 1 Lt.",
@@ -1296,22 +1158,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/vinagre-de-alcohol-menoyo-1-lt-27264/p"
   },
   {
-    "nombre": "Pan de Papa Con Queso Dia 320 Gr.",
-    "precio": "$ 3.015",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352946-500-auto?v=638869609905100000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-papa-con-queso-dia-320-gr-306006/p"
+    "nombre": "Tomate Perita Cubeteado Dia con Agregado de Puré de Tomate 400 Gr.",
+    "precio": "$ 1.250",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/347277-500-auto?v=638777150264370000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/tomate-perita-cubeteado-dia-con-agregado-de-pure-de-tomate-400-gr-119003/p"
   },
   {
-    "nombre": "Gotitas de Amor Billiken 35 Gr.",
-    "precio": "$ 400",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/310942-500-auto?v=638786815335070000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/gotitas-de-amor-billiken-35-gr-110567/p"
-  },
-  {
-    "nombre": "Chocolate Milka Blanco Relleno Dulce de Leche 29 Gr.",
-    "precio": "$ 1.870",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356157-500-auto?v=638908481033500000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-blanco-relleno-dulce-de-leche-29-gr-135191/p"
+    "nombre": "Caramelos Blandos Mentos Confitados Menta 30 Gr.",
+    "precio": "$ 800",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/315226-500-auto?v=638599438936570000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/caramelos-blandos-mentos-confitados-menta-30-gr-209527/p"
   },
   {
     "nombre": "Puré de Tomate Dia 520 Gr.",
@@ -1320,28 +1176,16 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/pure-de-tomate-dia-520-gr-34593/p"
   },
   {
-    "nombre": "Tomate Perita Cubeteado Dia con Agregado de Puré de Tomate 400 Gr.",
-    "precio": "$ 1.250",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/347277-500-auto?v=638777150264370000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/tomate-perita-cubeteado-dia-con-agregado-de-pure-de-tomate-400-gr-119003/p"
+    "nombre": "Pannini 135 Gr.",
+    "precio": "$ 690",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/334691-500-auto?v=638786852649670000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pannini-135-gr-300084/p"
   },
   {
-    "nombre": "Alfajor Con Maní Shot Triple 60 Gr.",
-    "precio": "$ 1.880",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/331991-500-auto?v=638827527937170000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-con-mani-shot-triple-60-gr-23431/p"
-  },
-  {
-    "nombre": "Spaghe Hierro Sin Tacc Matarazzo 500 Gr.",
-    "precio": "$ 4.135",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354209-500-auto?v=638881702970100000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/spaghe-hierro-sin-tacc-matarazzo-500-gr-99940/p"
-  },
-  {
-    "nombre": "Salsa Hellmann's Barbacoa Doypack 250 Gr.",
-    "precio": "$ 2.325",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/318312-500-auto?v=638823934095770000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-hellmann-s-barbacoa-doypack-250-gr-258234/p"
+    "nombre": "Chocolate Con Leche Brek 16 Gr.",
+    "precio": "$ 400",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/337289-500-auto?v=638786864614200000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-con-leche-brek-16-gr-305296/p"
   },
   {
     "nombre": "Alfajor Triple Milka Oreo 61 Gr.",
@@ -1350,34 +1194,10 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-triple-milka-oreo-61-gr-182539/p"
   },
   {
-    "nombre": "Caldo Verdura Con Vegetales Balance Knorr 12 Ud.",
-    "precio": "$ 2.810",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307298-500-auto?v=638599328513500000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/caldo-verdura-con-vegetales-balance-knorr-12-ud-13761/p"
-  },
-  {
-    "nombre": "Chocolate Milka Aireado con Leche 25 Gr.",
-    "precio": "$ 1.870",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356160-500-auto?v=638908481067530000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-aireado-con-leche-25-gr-182540/p"
-  },
-  {
-    "nombre": "Pan Blanco Lactal 460 Gr.",
-    "precio": "$ 4.235",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354751-500-auto?v=638887748957700000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-blanco-lactal-460-gr-245473/p"
-  },
-  {
-    "nombre": "Chocolate Milka Aireado Combinado 25 Gr.",
-    "precio": "$ 1.870",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356145-500-auto?v=638908480904770000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-aireado-combinado-25-gr-110569/p"
-  },
-  {
-    "nombre": "Mostaza Savora Original Doypack 500 Gr.",
-    "precio": "$ 2.490",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/345084-500-auto?v=638744393985070000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/mostaza-savora-original-doypack-500-gr-278069/p"
+    "nombre": "Salsa Hellmann's Barbacoa Doypack 250 Gr.",
+    "precio": "$ 2.325",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/318312-500-auto?v=638823934095770000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-hellmann-s-barbacoa-doypack-250-gr-258234/p"
   },
   {
     "nombre": "Aceite de Oliva Morixe Extra Virgen 500 Ml.",
@@ -1386,16 +1206,58 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-morixe-extra-virgen-500-ml-276046/p"
   },
   {
-    "nombre": "Alfajor Relleno de Dulce de Leche 9 de Oro 45 Gr.",
-    "precio": "$ 750",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/349323-500-auto?v=638809206054530000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-relleno-de-dulce-de-leche-9-de-oro-45-gr-306946/p"
+    "nombre": "Pan Blanco Lactal 460 Gr.",
+    "precio": "$ 4.235",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354751-500-auto?v=638887748957700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-blanco-lactal-460-gr-245473/p"
+  },
+  {
+    "nombre": "Caldo Verdura Con Vegetales Balance Knorr 12 Ud.",
+    "precio": "$ 2.810",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307298-500-auto?v=638599328513500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/caldo-verdura-con-vegetales-balance-knorr-12-ud-13761/p"
+  },
+  {
+    "nombre": "Alfajor Con Maní Shot Triple 60 Gr.",
+    "precio": "$ 1.880",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/331991-500-auto?v=638827527937170000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-con-mani-shot-triple-60-gr-23431/p"
+  },
+  {
+    "nombre": "Mostaza Savora Original Doypack 500 Gr.",
+    "precio": "$ 2.490",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/345084-500-auto?v=638744393985070000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mostaza-savora-original-doypack-500-gr-278069/p"
   },
   {
     "nombre": "Pan Multicereal Familiar 650 Gr.",
     "precio": "$ 3.390",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/342131-500-auto?v=638708914281900000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-multicereal-familiar-650-gr-295406/p"
+  },
+  {
+    "nombre": "Chocolate Mecano Bonafide De Dulce De Leche 19 Gr.",
+    "precio": "$ 750",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/311567-500-auto?v=638917487716300000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-mecano-bonafide-de-dulce-de-leche-19-gr-124948/p"
+  },
+  {
+    "nombre": "Alfajor Shot 44 Gr.",
+    "precio": "$ 1.340",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354242-500-auto?v=638881703436500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-shot-44-gr-308300/p"
+  },
+  {
+    "nombre": "Palitos Salados Krachitos 110 Gr.",
+    "precio": "$ 1.320",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308551-500-auto?v=638599345289270000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/palitos-salados-krachitos-110-gr-34440/p"
+  },
+  {
+    "nombre": "Chocolate Milka Blanco Relleno Dulce de Leche 29 Gr.",
+    "precio": "$ 2.280",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356157-500-auto?v=638908481033500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-blanco-relleno-dulce-de-leche-29-gr-135191/p"
   },
   {
     "nombre": "Chicles Beldent Menta 20 Gr.",
@@ -1410,10 +1272,10 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/medialuna-de-manteca-x-1-ud-259747/p"
   },
   {
-    "nombre": "Pan De Ajo Tradicional Noly 300 Gr.",
-    "precio": "$ 4.998",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352983-500-auto?v=638869610542500000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-ajo-tradicional-noly-300-gr-307866/p"
+    "nombre": "Alfajor Terrabusi Chocolate Clásico 50 Gr.",
+    "precio": "$ 1.340",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/312773-500-auto?v=638827524718030000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-terrabusi-chocolate-clasico-50-gr-149060/p"
   },
   {
     "nombre": "Alfajor Oreo Triple 56 Gr.",
@@ -1422,10 +1284,10 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-oreo-triple-56-gr-274632/p"
   },
   {
-    "nombre": "Alfajor Pepitos Triple 57 Gr.",
-    "precio": "$ 1.880",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307968-500-auto?v=638827522607500000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-pepitos-triple-57-gr-23430/p"
+    "nombre": "Oblea Bon o Bon Chocolate 30 Gr.",
+    "precio": "$ 775",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307990-500-auto?v=638599337153200000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/oblea-bon-o-bon-chocolate-30-gr-23675/p"
   },
   {
     "nombre": "Chocolate Amargo 73% Cacao Hershey's 85 Gr.",
@@ -1434,10 +1296,10 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-amargo-73--cacao-hershey-s-85-gr-271697/p"
   },
   {
-    "nombre": "Alfajor Terrabusi Chocolate Clásico 50 Gr.",
-    "precio": "$ 1.340",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/312773-500-auto?v=638827524718030000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-terrabusi-chocolate-clasico-50-gr-149060/p"
+    "nombre": "Alfajor Pepitos Triple 57 Gr.",
+    "precio": "$ 1.880",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307968-500-auto?v=638827522607500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-pepitos-triple-57-gr-23430/p"
   },
   {
     "nombre": "Salsa de Soja Menoyo Tradicional 250 Gr.",
@@ -1446,16 +1308,10 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-de-soja-menoyo-tradicional-250-gr-276573/p"
   },
   {
-    "nombre": "Palitos Salados Krachitos 110 Gr.",
-    "precio": "$ 1.320",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308551-500-auto?v=638599345289270000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/palitos-salados-krachitos-110-gr-34440/p"
-  },
-  {
-    "nombre": "Donut Glaseada X 1 Ud.",
-    "precio": "$ 690",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341619-500-auto?v=638708907977700000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/donut-glaseada-x-1-ud-259364/p"
+    "nombre": "Spaghe Hierro Sin Tacc Matarazzo 500 Gr.",
+    "precio": "$ 4.135",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354209-500-auto?v=638881702970100000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/spaghe-hierro-sin-tacc-matarazzo-500-gr-99940/p"
   },
   {
     "nombre": "Pan de Pancho Bimbo Artesano 6 Ud.",
@@ -1464,16 +1320,46 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-pancho-bimbo-artesano-6-ud-241399/p"
   },
   {
+    "nombre": "Caramelos Sugus Confitados 50 Ud.",
+    "precio": "$ 1.290",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307198-500-auto?v=638599327176770000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/caramelos-sugus-confitados-50-ud-11260/p"
+  },
+  {
     "nombre": "Flan en Sobre Exquisita Vainilla 40 Gr.",
-    "precio": "$ 1.150",
+    "precio": "$ 1.162",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356723-500-auto?v=638915399871630000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/flan-en-sobre-exquisita-vainilla-40-gr-276964/p"
   },
   {
-    "nombre": "Bombón Relleno Bon o Bon Original 15 Gr.",
-    "precio": "$ 500",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307588-500-auto?v=638599332136100000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/bombon-relleno-bon-o-bon-original-15-gr-17930/p"
+    "nombre": "Donut Glaseada X 1 Ud.",
+    "precio": "$ 690",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341619-500-auto?v=638708907977700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/donut-glaseada-x-1-ud-259364/p"
+  },
+  {
+    "nombre": "Alfajor Relleno de Dulce de Leche 9 de Oro 45 Gr.",
+    "precio": "$ 750",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/349323-500-auto?v=638809206054530000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-relleno-de-dulce-de-leche-9-de-oro-45-gr-306946/p"
+  },
+  {
+    "nombre": "Chocolate Milka Aireado con Leche 25 Gr.",
+    "precio": "$ 2.280",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356160-500-auto?v=638908481067530000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-aireado-con-leche-25-gr-182540/p"
+  },
+  {
+    "nombre": "Cubanito Relleno De Dulce De Leche Arbanit Fellow 26 Gr.",
+    "precio": "$ 850",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307152-500-auto?v=638599326496500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/cubanito-relleno-de-dulce-de-leche-arbanit-fellow-26-gr-8257/p"
+  },
+  {
+    "nombre": "Ketchup Hellmanns Regular Doypack 500 Gr.",
+    "precio": "$ 3.919",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/353515-500-auto?v=638871332635830000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/ketchup-hellmanns-regular-doypack-500-gr-269664/p"
   },
   {
     "nombre": "Sal Gruesa Paquete Celusal 500 Gr.",
@@ -1482,22 +1368,10 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/sal-gruesa-paquete-celusal-500-gr-8165/p"
   },
   {
-    "nombre": "Oblea Tita Chocolate 19 Gr.",
-    "precio": "$ 1.000",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/331059-500-auto?v=638603483935500000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/oblea-tita-chocolate-19-gr-274902/p"
-  },
-  {
-    "nombre": "Caramelo Masticable Sabor Tutti Frutti Lenguetazo 13 Gr.",
-    "precio": "$ 350",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/310681-500-auto?v=638599376322730000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/caramelo-masticable-sabor-tutti-frutti-lenguetazo-13-gr-103342/p"
-  },
-  {
-    "nombre": "Brownie Mamá Cocina Chocolate 425 Gr.",
-    "precio": "$ 3.215",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/347137-500-auto?v=638768627795100000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/brownie-mama-cocina-chocolate-425-gr-276151/p"
+    "nombre": "Bombón Relleno Bon o Bon Original 15 Gr.",
+    "precio": "$ 500",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307588-500-auto?v=638599332136100000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/bombon-relleno-bon-o-bon-original-15-gr-17930/p"
   },
   {
     "nombre": "Premezcla Brownies Fortificado Exquisita 425 Gr.",
@@ -1506,10 +1380,46 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/premezcla-brownies-fortificado-exquisita-425-gr-301032/p"
   },
   {
-    "nombre": "Porotos Secos Remojados Dia 340 Gr.",
-    "precio": "$ 750",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/350411-500-auto?v=638822944562730000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/porotos-secos-remojados-dia-340-gr-248161/p"
+    "nombre": "Chocolate Milka Aireado Combinado 25 Gr.",
+    "precio": "$ 2.280",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356145-500-auto?v=638908480904770000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-aireado-combinado-25-gr-110569/p"
+  },
+  {
+    "nombre": "Oblea Tita Chocolate 19 Gr.",
+    "precio": "$ 1.000",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/331059-500-auto?v=638603483935500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/oblea-tita-chocolate-19-gr-274902/p"
+  },
+  {
+    "nombre": "Alfajor Triple Turimar Blanco 60 Gr.",
+    "precio": "$ 550",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/325670-500-auto?v=638599584284870000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-triple-turimar-blanco-60-gr-283752/p"
+  },
+  {
+    "nombre": "Aceitunas Verdes Descarozadas Castell 110 Gr.",
+    "precio": "$ 2.193",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340085-500-auto?v=638786870091770000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceitunas-verdes-descarozadas-castell-110-gr-305581/p"
+  },
+  {
+    "nombre": "Brownie Mamá Cocina Chocolate 425 Gr.",
+    "precio": "$ 3.215",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/347137-500-auto?v=638768627795100000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/brownie-mama-cocina-chocolate-425-gr-276151/p"
+  },
+  {
+    "nombre": "Caramelo Masticable Sabor Tutti Frutti Lenguetazo 13 Gr.",
+    "precio": "$ 350",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/310681-500-auto?v=638599376322730000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/caramelo-masticable-sabor-tutti-frutti-lenguetazo-13-gr-103342/p"
+  },
+  {
+    "nombre": "Granos de Choclo Amarillo DIA 300 Gr.",
+    "precio": "$ 1.200",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/343891-500-auto?v=638786812091700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/granos-de-choclo-amarillo-dia-300-gr-33512/p"
   },
   {
     "nombre": "Pan Baguette 1 Ud.",
@@ -1518,22 +1428,22 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-baguette-1-ud-208306/p"
   },
   {
-    "nombre": "Aceitunas Verdes Descarozadas Castell 110 Gr.",
-    "precio": "$ 2.150",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340085-500-auto?v=638786870091770000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceitunas-verdes-descarozadas-castell-110-gr-305581/p"
+    "nombre": "Pan De Ajo Tradicional Noly 300 Gr.",
+    "precio": "$ 4.998",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352983-500-auto?v=638869610542500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-ajo-tradicional-noly-300-gr-307866/p"
+  },
+  {
+    "nombre": "Porotos Secos Remojados Dia 340 Gr.",
+    "precio": "$ 750",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/350411-500-auto?v=638822944562730000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/porotos-secos-remojados-dia-340-gr-248161/p"
   },
   {
     "nombre": "Baguette Cocida Congelada 230 Gr.",
     "precio": "$ 990",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352885-500-auto?v=638865280458500000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/baguette-cocida-congelada-230-gr-278613/p"
-  },
-  {
-    "nombre": "Granos de Choclo Amarillo DIA 300 Gr.",
-    "precio": "$ 1.200",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/343891-500-auto?v=638786812091700000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/granos-de-choclo-amarillo-dia-300-gr-33512/p"
   },
   {
     "nombre": "Harina Mezcla para Ñoquis DIA 400 Gr.",
@@ -1548,6 +1458,12 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/granas-dia-rosa-50-gr-275211/p"
   },
   {
+    "nombre": "Aceite Comestible Opi Mezcla 900 Ml.",
+    "precio": "$ 2.190",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/350448-500-auto?v=638823960976930000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-comestible-opi-mezcla-900-ml-52448/p"
+  },
+  {
     "nombre": "Panal De Membrillo X 1 Ud.",
     "precio": "$ 360",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341625-500-auto?v=638708908080030000&width=500&height=auto&aspect=true",
@@ -1560,70 +1476,10 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/granas-dia-celeste-50-gr-275209/p"
   },
   {
-    "nombre": "Granas DIA Verdes 50 Gr.",
-    "precio": "$ 460",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/323213-500-auto?v=638599553241300000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/granas-dia-verdes-50-gr-275208/p"
-  },
-  {
-    "nombre": "Chocolate Milka Con Leche 20 Gr.",
-    "precio": "$ 1.460",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/317907-500-auto?v=638894012710000000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-con-leche-20-gr-252365/p"
-  },
-  {
-    "nombre": "Aceite Comestible Opi Mezcla 900 Ml.",
-    "precio": "$ 2.190",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/350448-500-auto?v=638823960976930000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-comestible-opi-mezcla-900-ml-52448/p"
-  },
-  {
-    "nombre": "Medialuna De Grasa X 1 Ud.",
-    "precio": "$ 360",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341628-500-auto?v=638708908130070000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/medialuna-de-grasa-x-1-ud-259748/p"
-  },
-  {
-    "nombre": "Mayonesa De Ajo Hellmans 250 Gr.",
-    "precio": "$ 3.060",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341854-500-auto?v=638708911080500000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-de-ajo-hellmans-250-gr-291831/p"
-  },
-  {
-    "nombre": "Chocolate Milka Oreo Blanco 20 Gr.",
-    "precio": "$ 1.460",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/317912-500-auto?v=638894015229300000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-oreo-blanco-20-gr-252368/p"
-  },
-  {
-    "nombre": "Vigilante Croissant 75 Gr.",
-    "precio": "$ 360",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/331071-500-auto?v=638603484107700000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/vigilante-croissant-75-gr-300086/p"
-  },
-  {
-    "nombre": "Pan Lacteado Blanco Rey Oro 360 Gr.",
-    "precio": "$ 2.244",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307354-500-auto?v=638599329251970000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-lacteado-blanco-rey-oro-360-gr-14769/p"
-  },
-  {
-    "nombre": "Pan de Hamburguesa El Chacarero 210 Gr.",
-    "precio": "$ 1.270",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/311134-500-auto?v=638599382548800000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-hamburguesa-el-chacarero-210-gr-115020/p"
-  },
-  {
-    "nombre": "Aceto Balsámico Cocinero 250 Ml.",
-    "precio": "$ 2.910",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/312795-500-auto?v=638599405537030000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceto-balsamico-cocinero-250-ml-149352/p"
-  },
-  {
-    "nombre": "Pan para Hamburguesa Lactal 4 Ud.",
-    "precio": "$ 2.115",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354737-500-auto?v=638887748818400000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-para-hamburguesa-lactal-4-ud-239480/p"
+    "nombre": "Gomitas Billiken Rollo Frutal 35 Gr.",
+    "precio": "$ 400",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/325682-500-auto?v=638786848775130000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/gomitas-billiken-rollo-frutal-35-gr-283791/p"
   },
   {
     "nombre": "Sal Gruesa Celusal 1 Kg.",
@@ -1632,16 +1488,46 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/sal-gruesa-celusal-1-kg-15147/p"
   },
   {
-    "nombre": "Alfajor Oro Guaymallen 48 Gr.",
-    "precio": "$ 775",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/329665-500-auto?v=638599638699700000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-oro-guaymallen-48-gr-299079/p"
+    "nombre": "Chocolate Milka Con Leche 20 Gr.",
+    "precio": "$ 1.460",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/317907-500-auto?v=638894012710000000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-con-leche-20-gr-252365/p"
   },
   {
-    "nombre": "Chocolate Milka Chocopause 45 Gr.",
-    "precio": "$ 2.320",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/324050-500-auto?v=638894012480630000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-chocopause-45-gr-278032/p"
+    "nombre": "Granas DIA Verdes 50 Gr.",
+    "precio": "$ 460",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/323213-500-auto?v=638599553241300000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/granas-dia-verdes-50-gr-275208/p"
+  },
+  {
+    "nombre": "Aceto Balsámico Cocinero 250 Ml.",
+    "precio": "$ 2.910",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/312795-500-auto?v=638599405537030000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceto-balsamico-cocinero-250-ml-149352/p"
+  },
+  {
+    "nombre": "Medialuna De Grasa X 1 Ud.",
+    "precio": "$ 360",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341628-500-auto?v=638708908130070000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/medialuna-de-grasa-x-1-ud-259748/p"
+  },
+  {
+    "nombre": "Chocolate Sapito 10 Gr.",
+    "precio": "$ 275",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356974-500-auto?v=638918861879870000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-sapito-10-gr-259408/p"
+  },
+  {
+    "nombre": "Chocolate Milka Oreo Blanco 20 Gr.",
+    "precio": "$ 1.460",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/317912-500-auto?v=638894015229300000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-oreo-blanco-20-gr-252368/p"
+  },
+  {
+    "nombre": "Harina 0000 Caserita 1 Kg.",
+    "precio": "$ 1.060",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355069-500-auto?v=638893885597370000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-0000-caserita-1-kg-54870/p"
   },
   {
     "nombre": "Alfajor Terrabusi Triple Clásico 70 Gr.",
@@ -1650,16 +1536,40 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-terrabusi-triple-clasico-70-gr-23423/p"
   },
   {
-    "nombre": "Alfajor Terrabusi Triple Torta 70 Gr.",
-    "precio": "$ 1.880",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307956-500-auto?v=638888001556630000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-terrabusi-triple-torta-70-gr-23426/p"
+    "nombre": "Vigilante Croissant 75 Gr.",
+    "precio": "$ 360",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/331071-500-auto?v=638603484107700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/vigilante-croissant-75-gr-300086/p"
   },
   {
-    "nombre": "Sal Fina Estuche Celusal 500 Gr.",
-    "precio": "$ 1.605",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/349696-500-auto?v=638816899438600000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/sal-fina-estuche-celusal-500-gr-3333/p"
+    "nombre": "Mayonesa De Ajo Hellmans 250 Gr.",
+    "precio": "$ 3.106",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341854-500-auto?v=638708911080500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-de-ajo-hellmans-250-gr-291831/p"
+  },
+  {
+    "nombre": "Pan de Hamburguesa El Chacarero 210 Gr.",
+    "precio": "$ 1.270",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/311134-500-auto?v=638599382548800000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-hamburguesa-el-chacarero-210-gr-115020/p"
+  },
+  {
+    "nombre": "Alfajor San Telmo Blanco 35 Gr.",
+    "precio": "$ 600",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/326514-500-auto?v=638599596048170000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-san-telmo-blanco-35-gr-289311/p"
+  },
+  {
+    "nombre": "Pan Lacteado Blanco Rey Oro 360 Gr.",
+    "precio": "$ 2.244",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307354-500-auto?v=638599329251970000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-lacteado-blanco-rey-oro-360-gr-14769/p"
+  },
+  {
+    "nombre": "Pan para Hamburguesa Lactal 4 Ud.",
+    "precio": "$ 2.115",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354737-500-auto?v=638887748818400000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-para-hamburguesa-lactal-4-ud-239480/p"
   },
   {
     "nombre": "Bombón De Chocolate Milka Oreo 19 Gr.",
@@ -1668,10 +1578,34 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/bombon-de-chocolate-milka-oreo-19-gr-272322/p"
   },
   {
-    "nombre": "Alfajor Triple Milka Dulce De Leche 70 Gr.",
-    "precio": "$ 1.880",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307961-500-auto?v=638888002357230000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-triple-milka-dulce-de-leche-70-gr-23428/p"
+    "nombre": "Alfajor Oro Guaymallen 48 Gr.",
+    "precio": "$ 775",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/329665-500-auto?v=638599638699700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-oro-guaymallen-48-gr-299079/p"
+  },
+  {
+    "nombre": "Sal Fina Estuche Celusal 500 Gr.",
+    "precio": "$ 1.605",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/349696-500-auto?v=638816899438600000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/sal-fina-estuche-celusal-500-gr-3333/p"
+  },
+  {
+    "nombre": "Chocolate Milka Chocopause 45 Gr.",
+    "precio": "$ 2.320",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/324050-500-auto?v=638894012480630000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-chocopause-45-gr-278032/p"
+  },
+  {
+    "nombre": "Aceite de Oliva Cocinero Extra Virgen Intenso 500 Ml.",
+    "precio": "$ 14.060",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/323670-500-auto?v=638599558959100000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-cocinero-extra-virgen-intenso-500-ml-276153/p"
+  },
+  {
+    "nombre": "Harina Leudante Caserita 1 Kg.",
+    "precio": "$ 1.270",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355073-500-auto?v=638893885655230000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-leudante-caserita-1-kg-74146/p"
   },
   {
     "nombre": "Barra de Chocolate Smack Rellena 35 Gr.",
@@ -1680,16 +1614,10 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/barra-de-chocolate-smack-rellena-35-gr-295454/p"
   },
   {
-    "nombre": "Harina Mezcla para Pizza DIA 500 Gr.",
-    "precio": "$ 1.050",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/309382-500-auto?v=638599356327600000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-mezcla-para-pizza-dia-500-gr-55543/p"
-  },
-  {
-    "nombre": "Aceite de Oliva Cocinero Extra Virgen Intenso 500 Ml.",
-    "precio": "$ 14.060",
-    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/323670-500-auto?v=638599558959100000&width=500&height=auto&aspect=true",
-    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-cocinero-extra-virgen-intenso-500-ml-276153/p"
+    "nombre": "Alfajor Triple Milka Dulce De Leche 70 Gr.",
+    "precio": "$ 1.880",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307961-500-auto?v=638888002357230000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-triple-milka-dulce-de-leche-70-gr-23428/p"
   },
   {
     "nombre": "Bizcochuelo Chocolate Fort Exquisita 540 Gr.",
@@ -1704,9 +1632,1119 @@
     "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-hellmanns-liviana-doypack-237-gr-46854/p"
   },
   {
+    "nombre": "Alfajor Terrabusi Triple Torta 70 Gr.",
+    "precio": "$ 1.880",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307956-500-auto?v=638888001556630000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-terrabusi-triple-torta-70-gr-23426/p"
+  },
+  {
+    "nombre": "Harina Mezcla para Pizza DIA 500 Gr.",
+    "precio": "$ 1.050",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/309382-500-auto?v=638599356327600000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-mezcla-para-pizza-dia-500-gr-55543/p"
+  },
+  {
     "nombre": "Aceite de Oliva Cocinero Extra Virgen Suave 500 Ml.",
     "precio": "$ 14.060",
     "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/323671-500-auto?v=638599558975930000&width=500&height=auto&aspect=true",
     "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-cocinero-extra-virgen-suave-500-ml-276154/p"
+  },
+  {
+    "nombre": "Gelatina Frambuesa Exquisita 40 Gr.",
+    "precio": "$ 1.150",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330229-500-auto?v=638599646202700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/gelatina-frambuesa-exquisita-40-gr-300345/p"
+  },
+  {
+    "nombre": "Gomitas Tutti Fruti Billiken 150 Gr.",
+    "precio": "$ 1.450",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330148-500-auto?v=638599645026900000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/gomitas-tutti-fruti-billiken-150-gr-300133/p"
+  },
+  {
+    "nombre": "Sopa De Vegetales Knorr Con Caracolitos Tricolor 107.5 Gr.",
+    "precio": "$ 2.140",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/348718-500-auto?v=638794442259830000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/sopa-de-vegetales-knorr-con-caracolitos-tricolor-1075-gr-283408/p"
+  },
+  {
+    "nombre": "Gelatina Light Cereza Forti Exquisita 25 Gr.",
+    "precio": "$ 1.150",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308452-500-auto?v=638599343706200000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/gelatina-light-cereza-forti-exquisita-25-gr-32544/p"
+  },
+  {
+    "nombre": "Vinagre de Alcohol Menoyo 500 Ml.",
+    "precio": "$ 1.140",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/314245-500-auto?v=638599425163500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/vinagre-de-alcohol-menoyo-500-ml-178256/p"
+  },
+  {
+    "nombre": "Maní Pelado Salado Krachitos 70 Gr.",
+    "precio": "$ 1.160",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/317156-500-auto?v=638599469949970000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mani-pelado-salado-krachitos-70-gr-242401/p"
+  },
+  {
+    "nombre": "Bizcochuelo Chocolate Morixe 540 Gr.",
+    "precio": "$ 2.725",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/306799-500-auto?v=638599321900300000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/bizcochuelo-chocolate-morixe-540-gr-1072/p"
+  },
+  {
+    "nombre": "Salsa Golf Natura 250 Gr.",
+    "precio": "$ 1.345",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/344458-500-auto?v=638786870898930000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-golf-natura-250-gr-305965/p"
+  },
+  {
+    "nombre": "Gelatina Light Frutilla Forti Exquisita 25 Gr.",
+    "precio": "$ 1.150",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308449-500-auto?v=638599343667470000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/gelatina-light-frutilla-forti-exquisita-25-gr-32542/p"
+  },
+  {
+    "nombre": "Tubitos De Harina De Maíz Sabor Queso 3D Mega Queso X 143 Gr.",
+    "precio": "$ 4.300",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/322081-500-auto?v=638599539403030000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/tubitos-de-harina-de-maiz-sabor-queso-3d-mega-queso-x-143-gr-273071/p"
+  },
+  {
+    "nombre": "Talitas Don Satur Tradicionales 140 Gr.",
+    "precio": "$ 1.775",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/316515-500-auto?v=638828519573270000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/talitas-don-satur-tradicionales-140-gr-237234/p"
+  },
+  {
+    "nombre": "Gomitas Yummy Dino 25 Gr.",
+    "precio": "$ 450",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/316321-500-auto?v=638917484564130000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/gomitas-yummy-dino-25-gr-232263/p"
+  },
+  {
+    "nombre": "Arroz Parboil Bolsa Luchetti 1 Kg.",
+    "precio": "$ 2.198",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/329617-500-auto?v=638599638181930000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-parboil-bolsa-luchetti-1-kg-299061/p"
+  },
+  {
+    "nombre": "Pan Integral Artesano con Masa Madre 500 Gr.",
+    "precio": "$ 7.650",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354672-500-auto?v=638887748143070000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-integral-artesano-con-masa-madre-500-gr-37128/p"
+  },
+  {
+    "nombre": "Bocadito Marroc Cachafaz 14 Gr.",
+    "precio": "$ 1.100",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/337297-500-auto?v=638786868335970000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/bocadito-marroc-cachafaz-14-gr-305303/p"
+  },
+  {
+    "nombre": "Gelatina Frutilla Regular Exquisita 40 Gr.",
+    "precio": "$ 1.162",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356163-500-auto?v=638908481096900000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/gelatina-frutilla-regular-exquisita-40-gr-300381/p"
+  },
+  {
+    "nombre": "Nestlé Bananita Dolca X 30 Gr.",
+    "precio": "$ 1.360",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/353987-500-auto?v=638873056134330000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/nestle-bananita-dolca-x-30-gr-298651/p"
+  },
+  {
+    "nombre": "Caramelo Cherry Menta Fullmint 28 Gr.",
+    "precio": "$ 375",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/349761-500-auto?v=638816900324100000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/caramelo-cherry-menta-fullmint-28-gr-307170/p"
+  },
+  {
+    "nombre": "Pure De Papa Receta Tradicional Mama Cocina 100 Gr.",
+    "precio": "$ 2.300",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/332849-500-auto?v=638619043955900000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pure-de-papa-receta-tradicional-mama-cocina-100-gr-297663/p"
+  },
+  {
+    "nombre": "Caramelo Menta Fullmint 28 Gr.",
+    "precio": "$ 375",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/349763-500-auto?v=638816900346870000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/caramelo-menta-fullmint-28-gr-307171/p"
+  },
+  {
+    "nombre": "Push Pop Tadicional 15 Gr.",
+    "precio": "$ 675",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/312028-500-auto?v=638599394399400000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/push-pop-tadicional-15-gr-134892/p"
+  },
+  {
+    "nombre": "Salsa Guiso y Arroz Knorr 340 Gr.",
+    "precio": "$ 1.420",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/310533-500-auto?v=638599374275870000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-guiso-y-arroz-knorr-340-gr-100081/p"
+  },
+  {
+    "nombre": "Sopa De Pollo Knorr Con Cabellos De Ángel 105.6 Gr.",
+    "precio": "$ 2.140",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/348726-500-auto?v=638794442460800000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/sopa-de-pollo-knorr-con-cabellos-de-angel-1056-gr-283610/p"
+  },
+  {
+    "nombre": "Aceite De Oliva Suave Natura 500 Ml.",
+    "precio": "$ 14.910",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/335018-500-auto?v=638786864283230000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-suave-natura-500-ml-304972/p"
+  },
+  {
+    "nombre": "Mayonesa Clásica Hellmann's Sin Tacc Doypack 950 Gr.",
+    "precio": "$ 4.936",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/325514-500-auto?v=638599582579430000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-clasica-hellmann-s-sin-tacc-doypack-950-gr-283566/p"
+  },
+  {
+    "nombre": "Premezcla para Pizza Pureza Clásica 550 Gr.",
+    "precio": "$ 1.885",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/315123-500-auto?v=638599437337770000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/premezcla-para-pizza-pureza-clasica-550-gr-205644/p"
+  },
+  {
+    "nombre": "Pan Lactal Salvado Rey Oro 360 Gr.",
+    "precio": "$ 2.825",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/309349-500-auto?v=638599355823770000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-lactal-salvado-rey-oro-360-gr-55251/p"
+  },
+  {
+    "nombre": "Premezcla Chipa Luchetti 400 Gr.",
+    "precio": "$ 5.300",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/351285-500-auto?v=638840398754900000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/premezcla-chipa-luchetti-400-gr-264922/p"
+  },
+  {
+    "nombre": "Rebozador para Horno Mamá Cocina 500 Gr.",
+    "precio": "$ 1.690",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/343099-500-auto?v=638726177520070000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/rebozador-para-horno-mama-cocina-500-gr-174476/p"
+  },
+  {
+    "nombre": "Mayonesa Sabor Ahumado Hellmans 250 Gr.",
+    "precio": "$ 3.060",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341864-500-auto?v=638708911188900000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-sabor-ahumado-hellmans-250-gr-291832/p"
+  },
+  {
+    "nombre": "Pan Rallado Fortificado Preferido 500 Gr.",
+    "precio": "$ 1.750",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/313102-500-auto?v=638599409614000000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-rallado-fortificado-preferido-500-gr-162447/p"
+  },
+  {
+    "nombre": "Chocolate Blanco Con Maní Shot 35 Gr.",
+    "precio": "$ 2.240",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/332016-500-auto?v=638887996475400000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-blanco-con-mani-shot-35-gr-296637/p"
+  },
+  {
+    "nombre": "Pan Salvado Fargo 390 Gr.",
+    "precio": "$ 4.799",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355771-500-auto?v=638902433163100000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-salvado-fargo-390-gr-55252/p"
+  },
+  {
+    "nombre": "Chizitos Krachitos 170 Gr.",
+    "precio": "$ 2.530",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307062-500-auto?v=638599325348170000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chizitos-krachitos-170-gr-6944/p"
+  },
+  {
+    "nombre": "Pan Rallado Preferido 1 Kg.",
+    "precio": "$ 3.330",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/310721-500-auto?v=638599376895130000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-rallado-preferido-1-kg-104371/p"
+  },
+  {
+    "nombre": "Pan con Semillas Oroweat 600 Gr.",
+    "precio": "$ 8.340",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354668-500-auto?v=638887748086900000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-con-semillas-oroweat-600-gr-16166/p"
+  },
+  {
+    "nombre": "Papas Fritas Corte Americano Krachitos 165 Gr.",
+    "precio": "$ 3.290",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/344432-500-auto?v=638786811623100000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/papas-fritas-corte-americano-krachitos-165-gr-27227/p"
+  },
+  {
+    "nombre": "Arroz Largo Fino Gallo 500 Gr.",
+    "precio": "$ 1.195",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/309493-500-auto?v=638875153767370000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-largo-fino-gallo-500-gr-56938/p"
+  },
+  {
+    "nombre": "Tirabuzon Al Huevo Lucchetti 500 Gr.",
+    "precio": "$ 1.850",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341712-500-auto?v=638708909199130000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/tirabuzon-al-huevo-lucchetti-500-gr-270869/p"
+  },
+  {
+    "nombre": "Pan De Ajo Picante Noly 300 Gr.",
+    "precio": "$ 4.998",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352981-500-auto?v=638869610510730000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-ajo-picante-noly-300-gr-307865/p"
+  },
+  {
+    "nombre": "Bizcochuelo Smack Doble relleno Dulce de Leche 70 Gr.",
+    "precio": "$ 550",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/326523-500-auto?v=638786849797030000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/bizcochuelo-smack-doble-relleno-dulce-de-leche-70-gr-289321/p"
+  },
+  {
+    "nombre": "Sopa Crema Knorr Zapallo Con Nuez Moscada 70 Gr.",
+    "precio": "$ 2.140",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/353567-500-auto?v=638871333280700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/sopa-crema-knorr-zapallo-con-nuez-moscada-70-gr-283614/p"
+  },
+  {
+    "nombre": "Chizitos De Maíz Sabor A Queso Cheetos Original X 140 Gr.",
+    "precio": "$ 4.500",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/318359-500-auto?v=638599488295630000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-x-140-gr-258509/p"
+  },
+  {
+    "nombre": "Mayonesa DIA 500 Ml.",
+    "precio": "$ 1.400",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307675-500-auto?v=638599333298430000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-dia-500-ml-20490/p"
+  },
+  {
+    "nombre": "Alfajor Fulbito Maní 30 Gr.",
+    "precio": "$ 300",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/326520-500-auto?v=638599596121970000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-fulbito-mani-30-gr-289319/p"
+  },
+  {
+    "nombre": "Chocolate Con Leche Mani Full Mani 100 Gr.",
+    "precio": "$ 1.790",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341523-500-auto?v=638708906716300000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-con-leche-mani-full-mani-100-gr-221751/p"
+  },
+  {
+    "nombre": "Puré de Papa Knorr Listo Receta Completa 125 Gr.",
+    "precio": "$ 2.877",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/316426-500-auto?v=638599459339700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pure-de-papa-knorr-listo-receta-completa-125-gr-235383/p"
+  },
+  {
+    "nombre": "Rapiditas XXL 8 Ud.",
+    "precio": "$ 6.990",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354806-500-auto?v=638887749619730000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/rapiditas-xxl-8-ud-305563/p"
+  },
+  {
+    "nombre": "Sopa De Letras Knorr Con Vegetales 107.5 Gr.",
+    "precio": "$ 2.140",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/348733-500-auto?v=638794442535930000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/sopa-de-letras-knorr-con-vegetales-1075-gr-283611/p"
+  },
+  {
+    "nombre": "Caballa al natural DIA 380 Gr.",
+    "precio": "$ 2.490",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340314-500-auto?v=638863006350000000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/caballa-al-natural-dia-380-gr-55811/p"
+  },
+  {
+    "nombre": "Pan Blanco Bimbo 610 Gr.",
+    "precio": "$ 6.430",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354762-500-auto?v=638887749080000000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-blanco-bimbo-610-gr-263871/p"
+  },
+  {
+    "nombre": "Salsa Caesar Dos Anclas 350 Gr.",
+    "precio": "$ 3.280",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/318826-500-auto?v=638893983160700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-caesar-dos-anclas-350-gr-260530/p"
+  },
+  {
+    "nombre": "Harina 000 Pureza Ultra Refinada 1 Kg.",
+    "precio": "$ 1.050",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/313391-500-auto?v=638599413720700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-000-pureza-ultra-refinada-1-kg-166079/p"
+  },
+  {
+    "nombre": "Alfajor Triple Milka Mousse Blanco 55 Gr.",
+    "precio": "$ 1.880",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/323822-500-auto?v=638828518552800000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-triple-milka-mousse-blanco-55-gr-276726/p"
+  },
+  {
+    "nombre": "Pan con Cereales Oroweat 600 Gr.",
+    "precio": "$ 8.338",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354676-500-auto?v=638887748182870000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-con-cereales-oroweat-600-gr-48715/p"
+  },
+  {
+    "nombre": "Pan Salvado Fargo 620 Gr.",
+    "precio": "$ 6.400",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355766-500-auto?v=638902433095700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-salvado-fargo-620-gr-55250/p"
+  },
+  {
+    "nombre": "Pasta Cabello De Angel Matarazzo 500 Gr.",
+    "precio": "$ 2.799",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/332082-500-auto?v=638616524422800000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pasta-cabello-de-angel-matarazzo-500-gr-304511/p"
+  },
+  {
+    "nombre": "Caramelo Regaliz Bull Dog 18 Gr.",
+    "precio": "$ 450",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330834-500-auto?v=638599654510100000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/caramelo-regaliz-bull-dog-18-gr-303541/p"
+  },
+  {
+    "nombre": "Gomitas Regaliz Frutilla Bulldog 18 Gr.",
+    "precio": "$ 450",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307048-500-auto?v=638599325163570000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/gomitas-regaliz-frutilla-bulldog-18-gr-6269/p"
+  },
+  {
+    "nombre": "Nachos DIA Tradicionales 100 Gr.",
+    "precio": "$ 2.000",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340496-500-auto?v=638701120726700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/nachos-dia-tradicionales-100-gr-264674/p"
+  },
+  {
+    "nombre": "Atún Desmenuzado Al Natural Dia 170 Gr.",
+    "precio": "$ 1.220",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356107-500-auto?v=638907617753900000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/atun-desmenuzado-al-natural-dia-170-gr-59894/p"
+  },
+  {
+    "nombre": "Oblea Kitkat White 4 Fingers X 41.5 Gr.",
+    "precio": "$ 2.010",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/353484-500-auto?v=638871332233430000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/oblea-kitkat-white-4-fingers-x-415-gr-238922/p"
+  },
+  {
+    "nombre": "Polvo Bizcochuelo Coco Exquisita 540 Gr.",
+    "precio": "$ 3.360",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/349719-500-auto?v=638911393149400000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/polvo-bizcochuelo-coco-exquisita-540-gr-301239/p"
+  },
+  {
+    "nombre": "Chupetín Pico Dulce 14 Gr.",
+    "precio": "$ 450",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330846-500-auto?v=638599654656700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chupetin-pico-dulce-14-gr-303870/p"
+  },
+  {
+    "nombre": "Cubanito Relleno De Pasta De Avellana Arbanit Fellow 26 Gr.",
+    "precio": "$ 850",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/317976-500-auto?v=638599482172000000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/cubanito-relleno-de-pasta-de-avellana-arbanit-fellow-26-gr-253563/p"
+  },
+  {
+    "nombre": "Fajitas Tía Rosa 10 Ud.",
+    "precio": "$ 3.636",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354809-500-auto?v=638887749656930000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/fajitas-tia-rosa-10-ud-305565/p"
+  },
+  {
+    "nombre": "Alfajor Terrabusi Blanco Glaseado 38 Gr.",
+    "precio": "$ 1.140",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307241-500-auto?v=638888002713400000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-terrabusi-blanco-glaseado-38-gr-12481/p"
+  },
+  {
+    "nombre": "Mayonesa Light Menoyo sin tacc 470 Gr.",
+    "precio": "$ 1.700",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/323091-500-auto?v=638599551749700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-light-menoyo-sin-tacc-470-gr-274912/p"
+  },
+  {
+    "nombre": "Alfajor Con Relleno De Frutos Rojos 9 De Oro 46 Gr.",
+    "precio": "$ 750",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352466-500-auto?v=638917440302100000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-con-relleno-de-frutos-rojos-9-de-oro-46-gr-23425/p"
+  },
+  {
+    "nombre": "Pan de Molde Rey Oro Blanco 500 Gr.",
+    "precio": "$ 3.162",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/327045-500-auto?v=638599603588530000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-molde-rey-oro-blanco-500-gr-292596/p"
+  },
+  {
+    "nombre": "Oblea Kitkat Dark 4 Fingers X 41,5 Gr.",
+    "precio": "$ 2.010",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/353479-500-auto?v=638871332175000000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/oblea-kitkat-dark-4-fingers-x-415-gr-238921/p"
+  },
+  {
+    "nombre": "Aceitunas Verdes Pack Castell 125 Gr.",
+    "precio": "$ 1.570",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340010-500-auto?v=638786870292630000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceitunas-verdes-pack-castell-125-gr-305583/p"
+  },
+  {
+    "nombre": "Chocolate Con Leche Hersheys 82 Gr.",
+    "precio": "$ 2.500",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341578-500-auto?v=638708907394670000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-con-leche-hersheys-82-gr-242966/p"
+  },
+  {
+    "nombre": "Flan en Sobre Exquisita Dulce de Leche 40 Gr.",
+    "precio": "$ 1.150",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356721-500-auto?v=638915399840800000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/flan-en-sobre-exquisita-dulce-de-leche-40-gr-276963/p"
+  },
+  {
+    "nombre": "Papas Fritas Tradicionales Krachitos 165 Gr.",
+    "precio": "$ 3.290",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340069-500-auto?v=638786811754600000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/papas-fritas-tradicionales-krachitos-165-gr-27251/p"
+  },
+  {
+    "nombre": "Gomitas Sabor Frutas Acidas Bubbaloo 16,5 Gr.",
+    "precio": "$ 460",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/337302-500-auto?v=638661374574000000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/gomitas-sabor-frutas-acidas-bubbaloo-165-gr-305306/p"
+  },
+  {
+    "nombre": "Mayonesa Equilibrio Livian 500 Gr.",
+    "precio": "$ 2.350",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352958-500-auto?v=638869610045530000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-equilibrio-livian-500-gr-307480/p"
+  },
+  {
+    "nombre": "Aceite de Oliva Extra Virgen Cañuelas 500 Ml.",
+    "precio": "$ 15.215",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352675-500-auto?v=638859585781500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-de-oliva-extra-virgen-canuelas-500-ml-137137/p"
+  },
+  {
+    "nombre": "Chocolate Milka Oreo Chocopause 45 Gr.",
+    "precio": "$ 2.320",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/318839-500-auto?v=638894011796530000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-oreo-chocopause-45-gr-260584/p"
+  },
+  {
+    "nombre": "Mostaza Original Livian 250 Gr.",
+    "precio": "$ 1.100",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352960-500-auto?v=638869610073330000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mostaza-original-livian-250-gr-307484/p"
+  },
+  {
+    "nombre": "Miñon Cocido Congelado 30 Gr.",
+    "precio": "$ 115",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/324317-500-auto?v=638599567120570000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/minon-cocido-congelado-30-gr-278615/p"
+  },
+  {
+    "nombre": "Papas Fritas Corte Americano Krachitos 105 Gr.",
+    "precio": "$ 2.427",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340072-500-auto?v=638786811874870000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/papas-fritas-corte-americano-krachitos-105-gr-31264/p"
+  },
+  {
+    "nombre": "Capelettini Jamón y Queso Lucchetti 500 Gr.",
+    "precio": "$ 4.820",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/312663-500-auto?v=638599403659130000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/capelettini-jamon-y-queso-lucchetti-500-gr-146981/p"
+  },
+  {
+    "nombre": "Pastillas de colores La Yapa 17 Gr.",
+    "precio": "$ 450",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/318279-500-auto?v=638599487117870000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pastillas-de-colores-la-yapa-17-gr-258016/p"
+  },
+  {
+    "nombre": "Chocolate Con Maní Shot 170 Gr.",
+    "precio": "$ 9.190",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/331999-500-auto?v=638612988888070000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-con-mani-shot-170-gr-121964/p"
+  },
+  {
+    "nombre": "Caldo Knorr De Verdura Deshidratado 6 Ud.",
+    "precio": "$ 1.425",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/344813-500-auto?v=638744391381200000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/caldo-knorr-de-verdura-deshidratado-6-ud-54986/p"
+  },
+  {
+    "nombre": "Aceituna Verde Castell doypack 90 Gr.",
+    "precio": "$ 1.410",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/309466-500-auto?v=638599357634970000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceituna-verde-castell-doypack-90-gr-56141/p"
+  },
+  {
+    "nombre": "Sal Entrefina Paquete Celusal 500 Gr.",
+    "precio": "$ 1.450",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/349695-500-auto?v=638816899416570000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/sal-entrefina-paquete-celusal-500-gr-3324/p"
+  },
+  {
+    "nombre": "Galletitas dulces Milka Mousse Chocolate 124 Gr.",
+    "precio": "$ 2.180",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355060-500-auto?v=638893885486870000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/galletitas-dulces-milka-mousse-chocolate-124-gr-25357/p"
+  },
+  {
+    "nombre": "Salsa Picante Hellmanns 250 Gr.",
+    "precio": "$ 3.060",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308191-500-auto?v=638599340161600000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-picante-hellmanns-250-gr-25655/p"
+  },
+  {
+    "nombre": "Bizcochuelo Mamá Cocina Chocolate 540 Gr.",
+    "precio": "$ 3.160",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/323664-500-auto?v=638599558868400000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/bizcochuelo-mama-cocina-chocolate-540-gr-276150/p"
+  },
+  {
+    "nombre": "Barra de Chocolate con Leche Kinder 12,5 Gr.",
+    "precio": "$ 650",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/312600-500-auto?v=638823944161930000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/barra-de-chocolate-con-leche-kinder-125-gr-145556/p"
+  },
+  {
+    "nombre": "Polvo Bizcochuelo Vainilla Cuquets 450 Gr.",
+    "precio": "$ 1.730",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330182-500-auto?v=638599645483100000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/polvo-bizcochuelo-vainilla-cuquets-450-gr-300155/p"
+  },
+  {
+    "nombre": "Pan de Molde Rey Oro Salvado 500 Gr.",
+    "precio": "$ 3.565",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/327047-500-auto?v=638599603621100000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-molde-rey-oro-salvado-500-gr-292598/p"
+  },
+  {
+    "nombre": "Sal Entrefina Celusal para Parrilla 1 Kg.",
+    "precio": "$ 2.240",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/309457-500-auto?v=638599357495600000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/sal-entrefina-celusal-para-parrilla-1-kg-56090/p"
+  },
+  {
+    "nombre": "Caramelos Blandos Mentos Confitados Fruta 30 Gr.",
+    "precio": "$ 1.100",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/315227-500-auto?v=638599438949870000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/caramelos-blandos-mentos-confitados-fruta-30-gr-209528/p"
+  },
+  {
+    "nombre": "Sopa Instantanea Balance Vegetales Quick Knorr 50 Gr.",
+    "precio": "$ 2.855",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355463-500-auto?v=638896388395370000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/sopa-instantanea-balance-vegetales-quick-knorr-50-gr-14991/p"
+  },
+  {
+    "nombre": "Mayonesa Vegana Hellmanns 250 Gr.",
+    "precio": "$ 1.760",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/318314-500-auto?v=638599487668970000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-vegana-hellmanns-250-gr-258235/p"
+  },
+  {
+    "nombre": "Salsa Golf Sin Tacc Hellmanns 250 Gr.",
+    "precio": "$ 2.325",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330121-500-auto?v=638599644674100000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-golf-sin-tacc-hellmanns-250-gr-300114/p"
+  },
+  {
+    "nombre": "Sopa Crema Knorr De Vegetales 60 Gr.",
+    "precio": "$ 2.140",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/348740-500-auto?v=638794442613230000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/sopa-crema-knorr-de-vegetales-60-gr-283613/p"
+  },
+  {
+    "nombre": "Pure De Papa Receta Tradicional Mama Cocina 100 Gr.",
+    "precio": "$ 2.703",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/328914-500-auto?v=638599628981400000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pure-de-papa-receta-tradicional-mama-cocina-100-gr-297670/p"
+  },
+  {
+    "nombre": "Gelatina Regular Naranja Forti Exquisita 40 Gr.",
+    "precio": "$ 1.150",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/309526-500-auto?v=638599358520570000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/gelatina-regular-naranja-forti-exquisita-40-gr-58253/p"
+  },
+  {
+    "nombre": "Bombones Surtidos Arcor El Kiosco 246 Gr.",
+    "precio": "$ 9.650",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/322151-500-auto?v=638842225396370000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/bombones-surtidos-arcor-el-kiosco-246-gr-273222/p"
+  },
+  {
+    "nombre": "Chocolate Block Leche y Maní 110 Gr.",
+    "precio": "$ 4.200",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/312165-500-auto?v=638599396654500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-block-leche-y-mani-110-gr-136433/p"
+  },
+  {
+    "nombre": "Nachos Sabor Remolacha y Merken Dia 90 Gr.",
+    "precio": "$ 2.000",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340546-500-auto?v=638701121391730000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/nachos-sabor-remolacha-y-merken-dia-90-gr-295296/p"
+  },
+  {
+    "nombre": "Huevo de Pascua Kinder Azul 20 Gr.",
+    "precio": "$ 2.030",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/347455-500-auto?v=638780676570770000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/huevo-de-pascua-kinder-azul-20-gr-37008/p"
+  },
+  {
+    "nombre": "Alfajor Fantoche Triple Day 85 Gr.",
+    "precio": "$ 1.480",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330755-500-auto?v=638599653440500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-fantoche-triple-day-85-gr-302559/p"
+  },
+  {
+    "nombre": "Coctel 4 Frutas DIA 820 Gr.",
+    "precio": "$ 3.470",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/312438-500-auto?v=638599400498270000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/coctel-4-frutas-dia-820-gr-142002/p"
+  },
+  {
+    "nombre": "Condimento Sabor al Horno Knorr Limón y Orégano 21 Gr.",
+    "precio": "$ 2.750",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/312528-500-auto?v=638823956693830000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/condimento-sabor-al-horno-knorr-limon-y-oregano-21-gr-144140/p"
+  },
+  {
+    "nombre": "Chicle Topline Menta 6,7 Gr.",
+    "precio": "$ 450",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/311748-500-auto?v=638786815632800000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chicle-topline-menta-67-gr-129300/p"
+  },
+  {
+    "nombre": "Chocolate Milka Con Leche 150 Gr.",
+    "precio": "$ 9.860",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/315779-500-auto?v=638599450129370000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-con-leche-150-gr-222262/p"
+  },
+  {
+    "nombre": "Chocolate 40% Semi Amargo Hershey's 92 Gr.",
+    "precio": "$ 3.100",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/335753-500-auto?v=638653102128700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-40--semi-amargo-hershey-s-92-gr-283628/p"
+  },
+  {
+    "nombre": "Premezcla De Vainilla Exquisita 300 Gr.",
+    "precio": "$ 2.200",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/309982-500-auto?v=638829129290830000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/premezcla-de-vainilla-exquisita-300-gr-78572/p"
+  },
+  {
+    "nombre": "Mayonesa Menoyo Original Sin Tacc 250 Gr.",
+    "precio": "$ 890",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/323095-500-auto?v=638599551808600000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-menoyo-original-sin-tacc-250-gr-274916/p"
+  },
+  {
+    "nombre": "Celusal Fina Salero 250 Gr.",
+    "precio": "$ 3.020",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341611-500-auto?v=638708907839400000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/celusal-fina-salero-250-gr-259278/p"
+  },
+  {
+    "nombre": "Papas Fritas Sabor Crema & Cebolla Pringles 109 Gr.",
+    "precio": "$ 5.165",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308293-500-auto?v=638862998936070000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/papas-fritas-sabor-crema---cebolla-pringles-109-gr-28212/p"
+  },
+  {
+    "nombre": "Nestlé Choco Trio Cookies & Cream X 90 Gr.",
+    "precio": "$ 4.430",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/353663-500-auto?v=638871334409700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/nestle-choco-trio-cookies---cream-x-90-gr-295791/p"
+  },
+  {
+    "nombre": "Alfajor San Telmo Blanco 60 Gr.",
+    "precio": "$ 1.100",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/326164-500-auto?v=638599591150300000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-san-telmo-blanco-60-gr-285922/p"
+  },
+  {
+    "nombre": "Harina Integral Pureza 1 Kg.",
+    "precio": "$ 1.940",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/324086-500-auto?v=638917443922500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-integral-pureza-1-kg-278060/p"
+  },
+  {
+    "nombre": "Huevo de Chocolate Kinder Rosa 20 Gr.",
+    "precio": "$ 1.990",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/347529-500-auto?v=638780677409400000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/huevo-de-chocolate-kinder-rosa-20-gr-162299/p"
+  },
+  {
+    "nombre": "Arepas Maíz Amarillo Morixe 1 Kg.",
+    "precio": "$ 3.175",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/351315-500-auto?v=638840399157270000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/arepas-maiz-amarillo-morixe-1-kg-307491/p"
+  },
+  {
+    "nombre": "Postre Emeth Chocolate 120 Gr.",
+    "precio": "$ 740",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/326137-500-auto?v=638599590739500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/postre-emeth-chocolate-120-gr-285807/p"
+  },
+  {
+    "nombre": "Aceto Balsámico Menoyo 500 Ml.",
+    "precio": "$ 4.500",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354188-500-auto?v=638879104595700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceto-balsamico-menoyo-500-ml-271251/p"
+  },
+  {
+    "nombre": "Mayonesa Menoyo Original Sin Tacc 100 Gr.",
+    "precio": "$ 490",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/323093-500-auto?v=638599551779130000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-menoyo-original-sin-tacc-100-gr-274914/p"
+  },
+  {
+    "nombre": "Mayonesa Cañuelas 500 Gr.",
+    "precio": "$ 2.040",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/357111-500-auto?v=638921445267930000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-canuelas-500-gr-299922/p"
+  },
+  {
+    "nombre": "Budin Vainilla Zupay 170 Gr.",
+    "precio": "$ 1.330",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/350779-500-auto?v=638828993459730000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/budin-vainilla-zupay-170-gr-307469/p"
+  },
+  {
+    "nombre": "Mix De Semillas Genser Desayuno 150 Gr.",
+    "precio": "$ 3.269",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/347017-500-auto?v=638764193014500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mix-de-semillas-genser-desayuno-150-gr-282729/p"
+  },
+  {
+    "nombre": "Caldo Knorr Gallina Deshidratado 6 Ud.",
+    "precio": "$ 180",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/335746-500-auto?v=638653102066670000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/caldo-knorr-gallina-deshidratado-6-ud-283618/p"
+  },
+  {
+    "nombre": "Alfajor Nevares Negro 45 Gr.",
+    "precio": "$ 450",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/326677-500-auto?v=638786850030930000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/alfajor-nevares-negro-45-gr-290809/p"
+  },
+  {
+    "nombre": "Fideos Knorr Tirabuzon 500 Gr.",
+    "precio": "$ 1.600",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/321954-500-auto?v=638599537810200000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-knorr-tirabuzon-500-gr-272894/p"
+  },
+  {
+    "nombre": "Sopa Instantánea Arvejas Chile Pimentón Knorr 65 Gr.",
+    "precio": "$ 2.570",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/355469-500-auto?v=638896388475100000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/sopa-instantanea-arvejas-chile-pimenton-knorr-65-gr-14992/p"
+  },
+  {
+    "nombre": "Mini Muffins Vainilla Con Dulce De Leche 9 De Oro 195 Gr.",
+    "precio": "$ 3.085",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/334627-500-auto?v=638786813760870000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mini-muffins-vainilla-con-dulce-de-leche-9-de-oro-195-gr-37569/p"
+  },
+  {
+    "nombre": "Aceituna Verde Entera Xl Castell 170 Gr.",
+    "precio": "$ 2.795",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/333711-500-auto?v=638623702730770000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceituna-verde-entera-xl-castell-170-gr-304771/p"
+  },
+  {
+    "nombre": "Lomitos de Atún Al Natural DIA 354 Gr.",
+    "precio": "$ 4.980",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356075-500-auto?v=638907617428300000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/lomitos-de-atun-al-natural-dia-354-gr-45125/p"
+  },
+  {
+    "nombre": "Gomita Frutilla Bubba 15 Gr.",
+    "precio": "$ 425",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352612-500-auto?v=638858372390930000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/gomita-frutilla-bubba-15-gr-22723/p"
+  },
+  {
+    "nombre": "Chocolate DIA Blanco 30 Gr.",
+    "precio": "$ 1.000",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/318310-500-auto?v=638917484099130000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/chocolate-dia-blanco-30-gr-258225/p"
+  },
+  {
+    "nombre": "Salsa De Tomata Basilico La Campagnola 350 Gr.",
+    "precio": "$ 3.100",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/357299-500-auto?v=638931174071600000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-de-tomata-basilico-la-campagnola-350-gr-308408/p"
+  },
+  {
+    "nombre": "Bombon Blanco Bon O Bon 15 Gr.",
+    "precio": "$ 400",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/350617-500-auto?v=638827340297070000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/bombon-blanco-bon-o-bon-15-gr-307224/p"
+  },
+  {
+    "nombre": "Puré de Tomate La Campagnola 520 Gr.",
+    "precio": "$ 1.080",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/307394-500-auto?v=638786810303800000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pure-de-tomate-la-campagnola-520-gr-14900/p"
+  },
+  {
+    "nombre": "Fideos Tirabuzon Don Bernabeu 500 Gr.",
+    "precio": "$ 816",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352741-500-auto?v=638863556107200000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-tirabuzon-don-bernabeu-500-gr-307394/p"
+  },
+  {
+    "nombre": "Lomitos de Atún en Aceite Dia 354 Gr.",
+    "precio": "$ 4.980",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/356080-500-auto?v=638907617481330000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/lomitos-de-atun-en-aceite-dia-354-gr-45127/p"
+  },
+  {
+    "nombre": "Aceite en Aerosol DIA 120 Gr.",
+    "precio": "$ 3.450",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340470-500-auto?v=638701120418030000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceite-en-aerosol-dia-120-gr-53460/p"
+  },
+  {
+    "nombre": "Lentejas Secas Remojadas Dia 300 Gr.",
+    "precio": "$ 830",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/341776-500-auto?v=638708910027000000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/lentejas-secas-remojadas-dia-300-gr-279126/p"
+  },
+  {
+    "nombre": "Arvejas Secas Remojadas Dia 340 Gr.",
+    "precio": "$ 750",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/350398-500-auto?v=638822944381630000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/arvejas-secas-remojadas-dia-340-gr-214029/p"
+  },
+  {
+    "nombre": "Caldo Knorr Balanca Verduras 18 Gr.",
+    "precio": "$ 180",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/322946-500-auto?v=638599549786430000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/caldo-knorr-balanca-verduras-18-gr-274561/p"
+  },
+  {
+    "nombre": "Pan de molde Salvado DIA 600 Gr.",
+    "precio": "$ 3.520",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340308-500-auto?v=638696795866300000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-molde-salvado-dia-600-gr-38373/p"
+  },
+  {
+    "nombre": "Harina De Trigo 000 Chacabuco 1 Kg.",
+    "precio": "$ 895",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354618-500-auto?v=638884499952630000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/harina-de-trigo-000-chacabuco-1-kg-308189/p"
+  },
+  {
+    "nombre": "Fideos Mostachol Dia 500 Gr.",
+    "precio": "$ 1.180",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/344535-500-auto?v=638925969390700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-mostachol-dia-500-gr-286225/p"
+  },
+  {
+    "nombre": "Pudding Con Dulce De Leche Dia 310 Gr.",
+    "precio": "$ 3.190",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354661-500-auto?v=638885152462530000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pudding-con-dulce-de-leche-dia-310-gr-305205/p"
+  },
+  {
+    "nombre": "Fideos Tallarin La Morocha 500 Gr.",
+    "precio": "$ 1.390",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354599-500-auto?v=638884499668570000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/fideos-tallarin-la-morocha-500-gr-307412/p"
+  },
+  {
+    "nombre": "Salsa De Caramelo Li Lapar 200 Gr.",
+    "precio": "$ 1.785",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354602-500-auto?v=638884499713600000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-de-caramelo-li-lapar-200-gr-307619/p"
+  },
+  {
+    "nombre": "Pudding Con Frutos Secos Dia 320 Gr.",
+    "precio": "$ 3.190",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354653-500-auto?v=638885152383030000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pudding-con-frutos-secos-dia-320-gr-305203/p"
+  },
+  {
+    "nombre": "Maní Tostado Salado Sin Piel Dia 105 Gr.",
+    "precio": "$ 1.055",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340291-500-auto?v=638696795623270000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mani-tostado-salado-sin-piel-dia-105-gr-3441/p"
+  },
+  {
+    "nombre": "Sapito Frutilla Sapito 10 Gr.",
+    "precio": "$ 345",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354240-500-auto?v=638881703408500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/sapito-frutilla-sapito-10-gr-308243/p"
+  },
+  {
+    "nombre": "Sal Gruesa DIA 1 Kg.",
+    "precio": "$ 1.600",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340474-500-auto?v=638701120472470000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/sal-gruesa-dia-1-kg-55539/p"
+  },
+  {
+    "nombre": "Condimento Para Pizza DIA 25 Gr.",
+    "precio": "$ 800",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308787-500-auto?v=638599348410270000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/condimento-para-pizza-dia-25-gr-39763/p"
+  },
+  {
+    "nombre": "Papas Fritas Tubo Dia Sabor Original 150 Gr.",
+    "precio": "$ 3.800",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/344032-500-auto?v=638786816550900000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/papas-fritas-tubo-dia-sabor-original-150-gr-134494/p"
+  },
+  {
+    "nombre": "Pan para Pancho 240 Gr.",
+    "precio": "$ 1.690",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/319290-500-auto?v=638599501709430000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-para-pancho-240-gr-263811/p"
+  },
+  {
+    "nombre": "Pan para Hamburguesa Dia 4 Ud.",
+    "precio": "$ 1.990",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/348197-500-auto?v=638788388262200000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-para-hamburguesa-dia-4-ud-83488/p"
+  },
+  {
+    "nombre": "Aceitunas Verdes Sin Carozo Dia 160 Gr.",
+    "precio": "$ 2.400",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340552-500-auto?v=638701121462730000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceitunas-verdes-sin-carozo-dia-160-gr-298494/p"
+  },
+  {
+    "nombre": "Papas Fritas Tubo Sabor Crema Y Cebolla Dia 150 Gr.",
+    "precio": "$ 3.800",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/344067-500-auto?v=638786841209970000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/papas-fritas-tubo-sabor-crema-y-cebolla-dia-150-gr-166506/p"
+  },
+  {
+    "nombre": "Arroz Integral 00000 Cuquets 1 Kg.",
+    "precio": "$ 2.100",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/352154-500-auto?v=638847147074400000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/arroz-integral-00000-cuquets-1-kg-293529/p"
+  },
+  {
+    "nombre": "Papas Corte Americano Dia 160 Gr.",
+    "precio": "$ 2.600",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/345702-500-auto?v=638745185323500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/papas-corte-americano-dia-160-gr-295064/p"
+  },
+  {
+    "nombre": "Azúcar Impalpable Dia 100 Gr.",
+    "precio": "$ 540",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330442-500-auto?v=638599649369000000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/azucar-impalpable-dia-100-gr-300843/p"
+  },
+  {
+    "nombre": "Jardinera DIA Zanahoria, Papa y Arveja 300 Gr.",
+    "precio": "$ 1.200",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340498-500-auto?v=638701120758500000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/jardinera-dia-zanahoria-papa-y-arveja-300-gr-279120/p"
+  },
+  {
+    "nombre": "Tostadas de Mesa Dia 200 Gr.",
+    "precio": "$ 1.290",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/344527-500-auto?v=638739136145430000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/tostadas-de-mesa-dia-200-gr-224556/p"
+  },
+  {
+    "nombre": "Pan para Pancho Dia 6 Ud.",
+    "precio": "$ 1.990",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354696-500-auto?v=638887748392630000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-para-pancho-dia-6-ud-83489/p"
+  },
+  {
+    "nombre": "Salsa Para Pizza DIA Doypack 340 Gr.",
+    "precio": "$ 900",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/312988-500-auto?v=638599408129730000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-para-pizza-dia-doypack-340-gr-159480/p"
+  },
+  {
+    "nombre": "Tomate Pelado Perita La Campagnola 400 Gr.",
+    "precio": "$ 1.500",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/309559-500-auto?v=638599358977130000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/tomate-pelado-perita-la-campagnola-400-gr-59422/p"
+  },
+  {
+    "nombre": "Salsa Lista Napolitana Dia 340 Gr.",
+    "precio": "$ 900",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340996-500-auto?v=638786852256870000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-lista-napolitana-dia-340-gr-299354/p"
+  },
+  {
+    "nombre": "Mayonesa Natura Mayoliva 250 Gr.",
+    "precio": "$ 2.025",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/312505-500-auto?v=638823947440170000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-natura-mayoliva-250-gr-142821/p"
+  },
+  {
+    "nombre": "Salsa de Tomate Filetto DIA Doypack 340 Gr.",
+    "precio": "$ 900",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/308163-500-auto?v=638599339811900000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/salsa-de-tomate-filetto-dia-doypack-340-gr-25415/p"
+  },
+  {
+    "nombre": "Puré de Tomate Dia Sabor Ajo Y Cebolla 520 Gr.",
+    "precio": "$ 1.140",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340348-500-auto?v=638732344730530000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pure-de-tomate-dia-sabor-ajo-y-cebolla-520-gr-138940/p"
+  },
+  {
+    "nombre": "Mayonesa Dia 846 Gr.",
+    "precio": "$ 2.500",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/334615-500-auto?v=638635544915830000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/mayonesa-dia-846-gr-20491/p"
+  },
+  {
+    "nombre": "Gotitas DIA Chocolate con Leche 150 Gr.",
+    "precio": "$ 2.515",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/323900-500-auto?v=638599561955700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/gotitas-dia-chocolate-con-leche-150-gr-277359/p"
+  },
+  {
+    "nombre": "Aceituna Verde Rellena Dia 165 Gr.",
+    "precio": "$ 2.300",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340563-500-auto?v=638701121580200000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/aceituna-verde-rellena-dia-165-gr-298497/p"
+  },
+  {
+    "nombre": "Pan de molde Blanco DIA rodajas finas 360 Gr.",
+    "precio": "$ 2.210",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/340335-500-auto?v=638696796173700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pan-de-molde-blanco-dia-rodajas-finas-360-gr-113938/p"
+  },
+  {
+    "nombre": "Hummus Ajo Ahumado Kyros 230 Gr.",
+    "precio": "$ 3.773",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/330150-500-auto?v=638599645057070000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/hummus-ajo-ahumado-kyros-230-gr-300134/p"
+  },
+  {
+    "nombre": "Puré Instantáneo De Zapallo Papa Dia 100 Gr.",
+    "precio": "$ 1.990",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/351424-500-auto?v=638841951593670000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/pure-instantaneo-de-zapallo-papa-dia-100-gr-71155/p"
+  },
+  {
+    "nombre": "Baño de Reposteria Semiamargo DIA 150 Gr.",
+    "precio": "$ 2.045",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/310295-500-auto?v=638599369589700000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/bano-de-reposteria-semiamargo-dia-150-gr-88002/p"
+  },
+  {
+    "nombre": "Tostadas Light Libre Riera 200 Gr.",
+    "precio": "$ 1.870",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/329875-500-auto?v=638599641446400000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/tostadas-light-libre-riera-200-gr-299716/p"
+  },
+  {
+    "nombre": "Atún en Aceite La Campagnola 170 Gr.",
+    "precio": "$ 5.050",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/346338-500-auto?v=638755554851400000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/atun-en-aceite-la-campagnola-170-gr-14796/p"
+  },
+  {
+    "nombre": "Premezcla Para Chipá Dia 250 Gr.",
+    "precio": "$ 2.650",
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/354969-500-auto?v=638889473059370000&width=500&height=auto&aspect=true",
+    "url_producto": "https://diaonline.supermercadosdia.com.ar/premezcla-para-chipa-dia-250-gr-169258/p"
   }
 ]
