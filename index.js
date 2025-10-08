@@ -5,60 +5,77 @@ async function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-async function scrapeDia(page) {
+async function scrapeCategoria(page, urlCategoria, nombreCategoria) {
+  console.log(`🔎 Scrapeando categoría: ${nombreCategoria}`);
+  await page.goto(urlCategoria, { waitUntil: "networkidle2", timeout: 60000 });
+
   let allProducts = [];
   let hasMore = true;
 
   while (hasMore) {
-    // Esperar productos cargados
-    await page.waitForSelector(".vtex-product-summary-2-x-container", { timeout: 30000 });
+    try {
+      await page.waitForSelector(".vtex-product-summary-2-x-container", { timeout: 15000 });
+    } catch {
+      console.log("⏹ No se encontraron más productos en la página.");
+      break;
+    }
 
-    // Extraer productos de la página actual
-    const pageProducts = await page.evaluate(() => {
+    // Extraer productos visibles
+    const pageProducts = await page.evaluate((categoria) => {
       const items = [];
       document.querySelectorAll(".vtex-product-summary-2-x-container").forEach(el => {
-        const nombre = el.querySelector(".vtex-product-summary-2-x-productBrand")?.innerText.trim() || "";
-        const precio = el.querySelector(".diaio-store-5-x-sellingPriceValue")?.innerText.trim() || 
-                      el.querySelector("[class*='price']")?.innerText.trim() || "";
-        const imagen = el.querySelector("img")?.src || "";
-        const url_producto = el.querySelector("a")?.href || "";
+        const nombre = el.querySelector(".vtex-product-summary-2-x-productBrand")?.innerText.trim() || null;
+        const marca = el.querySelector(".vtex-product-summary-2-x-brandName")?.innerText.trim() || null;
+        const descripcion = el.querySelector(".vtex-product-summary-2-x-productNameContainer")?.innerText.trim() || null;
+        const precio = el.querySelector(".diaio-store-5-x-sellingPriceValue")?.innerText.trim() || null;
+        const precio_regular = el.querySelector(".diaio-store-5-x-listPriceValue")?.innerText.trim() || null;
+        const precio_sin_impuestos = null; // No aparece en el sitio, se deja null
+        const imagen = el.querySelector("img")?.src || null;
+        const url_producto = el.querySelector("a")?.href || null;
 
-        if (nombre && precio) items.push({ nombre, precio, imagen, url_producto });
+        if (nombre && precio) {
+          items.push({
+            nombre,
+            marca,
+            categoria,
+            descripcion,
+            precio,
+            precio_regular,
+            precio_sin_impuestos,
+            imagen,
+            url_producto
+          });
+        }
       });
       return items;
-    });
+    }, nombreCategoria);
 
-    // Evitar duplicados por URL
+    // Evitar duplicados
     pageProducts.forEach(p => {
       if (!allProducts.some(ap => ap.url_producto === p.url_producto)) {
         allProducts.push(p);
       }
     });
 
-    console.log(`Productos totales hasta ahora: ${allProducts.length}`);
+    console.log(`📦 Productos recolectados: ${allProducts.length}`);
 
-    // Hacer scroll hasta abajo
-    await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
-    await sleep(1000); // <-- delay con setTimeout
-
-    // Intentar clicar "Mostrar más"
-    const mostrarMasButton = await page.evaluateHandle(() => {
-      return Array.from(document.querySelectorAll("button")).find(
-        btn => btn.innerText.includes("Mostrar más")
-      );
+    // Intentar mostrar más
+    const mostrarMasExiste = await page.evaluate(() => {
+      const btn = Array.from(document.querySelectorAll("button"))
+        .find(b => b.innerText.includes("Mostrar más"));
+      if (btn) {
+        btn.scrollIntoView();
+        btn.click();
+        return true;
+      }
+      return false;
     });
 
-    if (mostrarMasButton) {
-      try {
-        await mostrarMasButton.click();
-        await sleep(2000); // esperar que carguen más productos
-      } catch (err) {
-        console.log("Error al clicar 'Mostrar más':", err.message);
-        hasMore = false;
-      }
+    if (mostrarMasExiste) {
+      await sleep(2500);
     } else {
+      console.log("✅ No hay más productos en esta categoría.");
       hasMore = false;
-      console.log("No hay más productos para mostrar.");
     }
   }
 
@@ -73,18 +90,33 @@ async function main() {
   });
 
   const page = await browser.newPage();
-  await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
+  await page.setUserAgent(
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+  );
 
-  const urlBase = "https://diaonline.supermercadosdia.com.ar/almacen"; // <-- poner URL de categoría
-  await page.goto(urlBase, { waitUntil: "networkidle2", timeout: 60000 });
+  // Array de categorías
+  const categorias = [
+    { nombre: "Almacén", url: "https://diaonline.supermercadosdia.com.ar/almacen" },
+    { nombre: "Bebidas", url: "https://diaonline.supermercadosdia.com.ar/bebidas" },
+    { nombre: "Lácteos", url: "https://diaonline.supermercadosdia.com.ar/lacteos" }
+  ];
 
-  const productos = await scrapeDia(page);
+  let productosTotales = [];
+
+  for (const cat of categorias) {
+    const productos = await scrapeCategoria(page, cat.url, cat.nombre);
+    productosTotales = productosTotales.concat(productos);
+  }
 
   if (!fs.existsSync("data")) fs.mkdirSync("data", { recursive: true });
-  fs.writeFileSync("data/productos.json", JSON.stringify(productos, null, 2), "utf-8");
-  console.log(`✅ ${productos.length} productos guardados en productos.json`);
+  fs.writeFileSync("data/productos.json", JSON.stringify(productosTotales, null, 2), "utf-8");
+  console.log(`\n✅ ${productosTotales.length} productos guardados en data/productos.json`);
 
   await browser.close();
+  console.log("👋 Navegador cerrado correctamente.");
 }
 
-main().catch(console.error);
+main().catch(err => {
+  console.error("❌ Error general:", err);
+  process.exit(1);
+});
