@@ -20,7 +20,6 @@ async function scrapeCategoria(page, urlCategoria, nombreCategoria) {
       break;
     }
 
-    // Extraer productos visibles
     const pageProducts = await page.evaluate((categoria) => {
       const items = [];
       document.querySelectorAll(".vtex-product-summary-2-x-container").forEach(el => {
@@ -59,7 +58,6 @@ async function scrapeCategoria(page, urlCategoria, nombreCategoria) {
 
     console.log(`📦 Productos recolectados: ${allProducts.length}`);
 
-    // Intentar mostrar más
     const mostrarMasExiste = await page.evaluate(() => {
       const btn = Array.from(document.querySelectorAll("button"))
         .find(b => b.innerText.includes("Mostrar más"));
@@ -94,7 +92,6 @@ async function main() {
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
   );
 
-  // Array de categorías
   const categorias = [
     { nombre: "Almacén", url: "https://diaonline.supermercadosdia.com.ar/almacen" },
     { nombre: "Bebidas", url: "https://diaonline.supermercadosdia.com.ar/bebidas" },
