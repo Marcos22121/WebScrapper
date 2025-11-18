@@ -70,7 +70,7 @@ async function scrapeVariosProductos(browser, page, urlCategoria, nombreCategori
 
     if (!clicked) { hasMore = false; break; }
 
-    await sleep(1000); // espera que carguen nuevos productos
+    await sleep(1000); 
   }
 
   for (const product of allProducts.slice(0, limite)) {
